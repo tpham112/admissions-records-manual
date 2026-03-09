@@ -1,10 +1,7 @@
 # ListServ Instructions
 
-*Section: General Information*
+The CACCRAO ListServ is used for professional communication among California community college admissions and records staff.
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+- **Sign up / manage subscription:** [caccrao.org/caccrao-listserv](https://www.caccrao.org/caccrao-listserv/)
 
----
-
-*To add content: edit this `.md` file in your GitHub repository.*
+Use the ListServ to ask questions, share best practices, and stay current on statewide policy changes affecting A&R operations.

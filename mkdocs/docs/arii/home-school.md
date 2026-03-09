@@ -1,10 +1,9 @@
-# Home-School Enrollment
+# Home-School Students (Dual Enrollment)
 
-*Section: ARII Procedures*
+Home-school students enrolling through Dual Enrollment are handled through [sac.dualenroll.com](https://sac.dualenroll.com). See the [Dual Enrollment — Home-School Students](dual-enrollment.md#home-school-students) section for the full procedure.
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
-
----
-
-*To add content: edit this `.md` file in your GitHub repository.*
+**Key points:**
+- Student selects "Home School" → system prompts for School Approver (parent can be approver).
+- Parent/approver uploads homeschool affidavit via link.
+- **A&R reviews and approves the affidavit** before registration proceeds.
+- Affidavit is saved under the student's "Documents" tab in dualenroll.com.

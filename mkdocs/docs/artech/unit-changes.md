@@ -1,10 +1,27 @@
-# Unit Changes
+# Unit Changes (AR Tech)
 
-*Section: AR Tech Procedures*
+## Prior to Grades Assigned
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+**RGN:**
+1. Enter **Student ID**.
+2. Find course.
+3. Change units.
+4. Click **Save All**.
+
+**Laserfiche:** Scan if physical card.
+
+!!! note
+    No need to request a rebill — bill runs automatically overnight.
 
 ---
 
-*To add content: edit this `.md` file in your GitHub repository.*
+## After Grades Assigned
+
+**STAC:**
+1. Enter **Student ID**.
+2. Detail into section.
+3. Update units.
+4. Click **Save All**.
+5. Reach out to **Cashier's for rebill**.
+
+**Laserfiche:** Scan if physical card.

@@ -1,10 +1,23 @@
 # Honors Contracts
 
-*Section: ARII — Petitions*
+## STAC Steps
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+1. **Detail into the section.**
 
----
+    !!! note "Screenshot Placeholder"
+        STAC section detail screenshot is in the original Word manual.
 
-*To add content: edit this `.md` file in your GitHub repository.*
+2. **Detail into SACD.**
+
+3. **Detail into Notes/Comments.**
+
+4. **Detail into Comments.**
+
+5. **Timestamp and enter comment.**
+
+6. **Enter comments in Printed Comments.**
+
+7. **Save All.**
+
+!!! note "Screenshot Placeholders"
+    Screenshots for steps 2–6 are in the original Word manual.

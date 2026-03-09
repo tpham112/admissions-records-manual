@@ -1,10 +1,3 @@
-# Petition for Overlapping Classes
+# Petition for Overlapping Classes (ARII)
 
-*Section: ARII — Petitions*
-
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
-
----
-
-*To add content: edit this `.md` file in your GitHub repository.*
+See the [ARI Overlapping Classes procedure](../../ari/petitions/overlapping-classes.md) — the steps are the same at the ARII level. The key screens are **RGN**, **STAC Notes/Comments** (enter `OVRLP`), and **Laserfiche** for scanning.

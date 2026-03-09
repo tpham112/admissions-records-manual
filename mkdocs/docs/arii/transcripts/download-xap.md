@@ -1,10 +1,28 @@
 # Download Incoming Transcripts — XAP
 
-*Section: ARII — Transcripts*
+## Steps
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+1. Log into **XAP Control Center** at:
+   [XAP Transcripts Report](https://control.xap.com/secure/transcripts/reports/Report_View.asp?Report_ID=2493)
 
----
+2. Navigate to: **eTranscriptCA → Reports → Transcripts we've received → "Detail"**
 
-*To add content: edit this `.md` file in your GitHub repository.*
+3. Set **"Date From"** to the previous day transcripts were downloaded, and **"Today's Date"** as the end date.
+
+4. Check the XAP folder 2 **"Downloaded Completed"** to see which transcripts still need to be downloaded.
+
+5. Download the received transcripts.
+
+6. **Name each file in this format:**
+
+    ```
+    Lastname, Firstname_STUDENTID_School name
+    ```
+
+    If no Colleague ID is found:
+
+    ```
+    Lastname, Firstname_NO ID_School name
+    ```
+
+7. Move the downloaded transcripts to the **XAP folder** in the M Drive *(see [Move to M Drive](m-drive.md))*.

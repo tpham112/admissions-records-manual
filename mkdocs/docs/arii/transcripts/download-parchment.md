@@ -1,10 +1,19 @@
 # Download Incoming Transcripts — Parchment
 
-*Section: ARII — Transcripts*
+## Steps
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+1. Go to the **RECEIVE screen** in Parchment.
+2. Download the transcripts.
+3. **Name each file using this format:**
 
----
+    ```
+    Lastname, Firstname_STUDENTID_School name
+    ```
 
-*To add content: edit this `.md` file in your GitHub repository.*
+    If no Colleague ID is found:
+
+    ```
+    Lastname, Firstname_NO ID_School name
+    ```
+
+4. Move the downloaded transcripts to the **Parchment folder** in the M Drive *(see [Move to M Drive](m-drive.md))*.

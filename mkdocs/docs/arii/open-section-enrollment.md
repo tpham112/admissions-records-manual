@@ -1,10 +1,8 @@
-# Open Section Enrollment
+# Open Section Enrollment (Dual Enrollment)
 
-*Section: ARII Procedures*
+See the [Dual Enrollment — Open Section Enrollment](dual-enrollment.md#open-section-enrollment-soft-student-onboarding) section for the full procedure.
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
-
----
-
-*To add content: edit this `.md` file in your GitHub repository.*
+**Quick summary:**
+- Provide students with the handout for [sac.dualenroll.com](https://sac.dualenroll.com).
+- Student needs an active application and SSO login.
+- Registration requests route to HS counselor → then to Colleague.

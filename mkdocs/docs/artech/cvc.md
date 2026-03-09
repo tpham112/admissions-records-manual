@@ -1,10 +1,23 @@
-# CVC (AR Tech)
+# CVC (California Virtual Campus)
 
-*Section: AR Tech Procedures*
+## XSRWS Stating "Record Not Found"
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+1. Go to **SPRO**.
+2. Enter the CVC Student ID.
+3. Save All.
+4. **XSRWS** should now allow waivers to be entered.
 
 ---
 
-*To add content: edit this `.md` file in your GitHub repository.*
+## Session Management
+
+1. Log into Admin at [search.cvc.edu/exchange/admin/dashboard](https://search.cvc.edu/exchange/admin/dashboard).
+2. Click **Course Management** → **Session Management**.
+3. Search for **Santa Ana College**.
+4. Click **Edit** on the session.
+5. Fill in the fields.
+6. **Save Information**.
+7. Click **Import Sections** under Edit if the session is already available — otherwise CVC will import on the date specified.
+
+!!! note "Screenshot Placeholders"
+    Session management screenshots are in the original Word manual.

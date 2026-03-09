@@ -1,10 +1,14 @@
 # Academic Standing
 
-*Section: AR Tech Procedures*
+## OUT2
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+**Purpose:** Reset academic standing clocks for students.
 
----
+### When to Run OUT2 Queries
 
-*To add content: edit this `.md` file in your GitHub repository.*
+| Term | When | For |
+|------|------|-----|
+| Fall | End of November | Fall of the previous year and Intersession of the current year |
+| Spring | End of May | Spring and Summer of the previous year |
+
+**How to check:** Run the Academic Standing by Term query.

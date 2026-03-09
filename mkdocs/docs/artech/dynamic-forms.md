@@ -1,10 +1,29 @@
-# Dynamic Forms
+# Dynamic Forms (AR Tech)
 
-*Section: AR Tech Procedures*
+## Unprocessing a Form
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+To bring a form back from Processed status:
+
+1. Mark as **Unprocessed**.
+2. Open PDF.
+3. Select **Actions**.
+4. Select **Return For Revision**.
 
 ---
 
-*To add content: edit this `.md` file in your GitHub repository.*
+## Reopening a Deleted Form
+
+You can reopen forms by deleting and then un-deleting them:
+
+1. In Dynamic Forms, go to the processed form → under **Action**, click **Delete**.
+2. Go to the **Deleted** tab.
+3. Find your form → under **Action**, click **Un-Delete**.
+4. Go to the **Multi Pending** tab.
+5. The form should be back in **Multi-Pending** status, ready for you to **Complete Form**.
+
+---
+
+## Form Getting Cut Off on Sides in PDFs
+
+- Update the **padding on the sides** to push everything into the middle.
+- This only updates new forms from that point forward.

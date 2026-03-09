@@ -1,10 +1,19 @@
 # Fraudulent Applications
 
-*Section: ARIII Procedures*
+1. **Get the student's photo ID**. Once identity is verified:
+    - Go to **Report Repository** and find the student's application confirmation number.
+    - Input the confirmation number into **XSGRT**:
+        - Use the confirmation ID (from CCC Apply) as the Application ID — it will populate XSGRT with student information.
+        - Enter `Y` in the **Reset** field.
+        - Click **Save All**.
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+2. **Upload the student ID to Laserfiche**.
 
----
+3. The student's application will be downloaded in the **next batch**.
 
-*To add content: edit this `.md` file in your GitHub repository.*
+4. After the application is downloaded:
+    - Name search to find the ID.
+    - Place a **PERC hold (`1PF`)** and add an end date with a note: *"Reviewed their ID to verify identity."*
+
+!!! info
+    If both SAC and SCC have holds, we can clear both holds if the student presents documentation to us.

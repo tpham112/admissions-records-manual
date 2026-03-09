@@ -1,10 +1,12 @@
-# Duplicate ID Merge Requests
+# Duplicate ID Merge Requests (ARII)
 
-*Section: ARII Procedures*
+See the [Applications — Duplicate ID Merge Requests](applications.md#duplicate-id-merge-requests) section for the full procedure.
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+For full merge processing steps (after the request is submitted), see the [AR Tech Duplicate ID](../artech/duplicate-id.md) page.
 
----
+**Summary of priorities for Good ID:**
+1. Financial Aid Record (always wins)
+2. Most record activity
+3. Current enrollment
 
-*To add content: edit this `.md` file in your GitHub repository.*
+**Submit merge requests to:** Jay, Roxana, or Thien via email with both Student IDs.

@@ -1,10 +1,32 @@
 # AR Tech Daily Tasks
 
-*Section: AR Tech Procedures*
+## Daily Checklist
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+- Refresh Dashboards (Term, Transcripts)
+- **RGVE** — prerequisite check
+- Production Sites
+    - RG9010
+    - Attendance Web
+- Queries
+    - BGVU W Assignment
+    - Never Attended Removals
+    - Continuing Education Student Corrections (CER)
+    - Sections w/ Add Periods Earlier Than Start Dates
+    - Pass/No Pass Reversals (Starting Fall 2025)
+- Dynamic Forms
+    - Course Repetition Exceptions
+    - Student Conduct Drops
+    - Confirmed Fraud Drops
+    - A&G Petitions
+    - Excused Withdrawals
+    - Duplicates
+- Student Business Office Requests
+- Daily Registration Appointments
 
----
+## Quarterly Tasks
 
-*To add content: edit this `.md` file in your GitHub repository.*
+- Pass/No Pass *(in progress for automation)*
+- Incompletes
+- Academic Standing
+- Academic Program Deactivation
+- Add Period Updates (BUSD)

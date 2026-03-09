@@ -1,10 +1,25 @@
-# Priority Registration (AR Tech)
+# Priority Registration
 
-*Section: AR Tech Procedures*
+## Assigning Registration Dates in Colleague
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+Registration dates are assigned based on student priority groups (Foster Youth, Veterans, DSPS, EOPS, CalWORKs, Continuing Students, New Students, etc.).
+
+**Key screens:** Registration date assignment is managed through the priority registration process — see Hung's documentation for the current term's priority schedule.
 
 ---
 
-*To add content: edit this `.md` file in your GitHub repository.*
+## Student Registration Emails
+
+Student registration emails are sent via the Communications Management process. See the [Communications Management](misc.md#communications-management) section.
+
+---
+
+## AM9999 — Student Parent
+
+Used for tracking students who are parents for priority registration purposes.
+
+---
+
+## Honors Coordinators
+
+See [Honors Contracts — Coordinators](honors-contracts.md#honors-coordinators).

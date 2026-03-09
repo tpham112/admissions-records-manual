@@ -1,10 +1,38 @@
 # Credit for Prior Learning
 
-*Section: ARII — Petitions*
+## TSUM Steps
 
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
+1. **Admissions Tests → CBE**
+   - Press **Enter**.
 
----
+    !!! note "Screenshot Placeholder"
+        TSUM CBE entry screenshot is in the original Word manual.
 
-*To add content: edit this `.md` file in your GitHub repository.*
+2. **Date Taken**
+   - Enter the **date of submission**.
+
+3. **Save → click Update**
+
+4. **Test LookUp → click OK**
+
+5. **Detail into Equiv**
+
+6. **Detail into Course**
+   - **Course LookUp:** Enter and select the course.
+   - **Course Level:** Try A–E until something takes.
+   - **Gr:** `P`
+   - **Status:** `TR`
+   - **Credit Type:** Choose one from the table below.
+   - **Save All**
+
+### Credit Type Codes
+
+| Code | Description |
+|------|-------------|
+| `JSTX` | Military Credit |
+| `MSX` | Military Service |
+| `APX` | Advanced Placement |
+| `IBX` | International Baccalaureate |
+| `CLEPX` | College-Level Examination Program |
+| `PX` | Portfolios |
+| `WEX` | Work Experience |

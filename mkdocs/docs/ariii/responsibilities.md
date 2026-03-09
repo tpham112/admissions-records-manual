@@ -1,10 +1,16 @@
 # Comprehensive List of Responsibilities
 
-*Section: ARIII Procedures*
-
-!!! note "Content Coming Soon"
-    This page is being migrated from the Word manual. Content will be added here shortly. In the meantime, refer to the original A&R Master Procedure Manual Word document for this procedure.
-
----
-
-*To add content: edit this `.md` file in your GitHub repository.*
+- CJA Enrollment
+- Fire Tech Enrollment
+- Petitions and Forms
+    - EWs (Excused Withdrawals)
+    - Special Admit
+    - Variable Unit Changes*
+    - Course Transfers*
+    - Pass-Alongs
+- Transcripts — Incoming College
+- Application Batches
+    - Fraud Applications
+- Dual Enrollment Audit
+- Miscellaneous Information
+    - California Virtual Campus
