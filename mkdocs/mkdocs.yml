@@ -45,13 +45,13 @@ nav:
   - Home: index.md
   - General Information:
     - Overview: general/index.md
-    - Course Families: general/course-families.md
     - Colleague Pages Reference: general/colleague-pages.md
+    - Course Families: general/course-families.md
     - CVC Information: general/cvc-information.md
-    - FERPA: general/ferpa.md
-    - Waitlist Guidelines: general/waitlist-guidelines.md
-    - New Staff Onboarding: general/onboarding.md
     - Deceased Student Process: general/deceased-student.md
+    - FERPA: general/ferpa.md
+    - New Staff Onboarding: general/onboarding.md
+    - Waitlist Guidelines: general/waitlist-guidelines.md
   - ARI Procedures:
     - Overview: ari/index.md
     - AB 540: ari/ab540.md
