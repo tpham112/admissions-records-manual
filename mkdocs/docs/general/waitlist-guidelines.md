@@ -15,7 +15,7 @@
 
 ## Waitlist Auto-Enrollment
 
-1. Waitlisted students will be automatically enrolled when space becomes available. This process typically runs daily at approximately **3:00 AM**.
+1. Waitlisted students will be automatically enrolled when space becomes available. This process typically runs daily at approximately **5:00 AM**.
 2. Auto-enrollment follows the order of students on the waitlist roster.
 3. Students with registration restrictions will **not** be auto-enrolled but will remain in the queue. The next eligible student will be enrolled instead. Common restrictions include:
     - Active registration holds
