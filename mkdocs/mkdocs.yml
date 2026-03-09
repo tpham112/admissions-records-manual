@@ -1,0 +1,134 @@
+site_name: A&R Procedure Manual
+site_description: Santa Ana College Admissions & Records Procedure Manual
+site_author: Santa Ana College A&R
+docs_dir: docs
+repo_url: https://github.com/YOUR-ORG/ar-manual
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+  font:
+    text: DM Sans
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
+    - content.action.edit
+
+plugins:
+  - search:
+      lang: en
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - General Information:
+    - Overview: general/index.md
+    - Course Families: general/course-families.md
+    - Colleague Pages Reference: general/colleague-pages.md
+    - CVC Information: general/cvc-information.md
+    - FERPA: general/ferpa.md
+    - Waitlist Guidelines: general/waitlist-guidelines.md
+    - New Staff Onboarding: general/onboarding.md
+  - ARI Procedures:
+    - Overview: ari/index.md
+    - AB 540: ari/ab540.md
+    - Add Authorization: ari/add-authorization.md
+    - Background Check: ari/background-check.md
+    - Change of Information Request: ari/change-of-information.md
+    - Enrollment Verifications: ari/enrollment-verifications.md
+    - FERPA Release: ari/ferpa-release.md
+    - Health Fee Exemption Form: ari/health-fee-exemption.md
+    - High School Status Discrepancy: ari/hs-status-discrepancy.md
+    - Registration: ari/registration.md
+    - Residency: ari/residency.md
+    - Student Parent Priority Registration: ari/priority-registration.md
+    - Petitions:
+      - Pass/No Pass: ari/petitions/pass-no-pass.md
+      - Overlapping Classes: ari/petitions/overlapping-classes.md
+      - Prerequisite Challenge: ari/petitions/prerequisite-challenge.md
+  - ARII Procedures:
+    - Overview: arii/index.md
+    - AP Scores: arii/ap-scores.md
+    - Applications: arii/applications.md
+    - Dual Enrollment: arii/dual-enrollment.md
+    - Duplicate ID Merge: arii/duplicate-id-merge.md
+    - Early Decision: arii/early-decision.md
+    - Fraud: arii/fraud.md
+    - High School Language Proficiency: arii/hs-language-proficiency.md
+    - Home-School: arii/home-school.md
+    - Open Section Enrollment: arii/open-section-enrollment.md
+    - SCC Special Admit: arii/scc-special-admit.md
+    - Transcripts:
+      - Process Parchment Orders: arii/transcripts/parchment-orders.md
+      - Download Incoming (Parchment): arii/transcripts/download-parchment.md
+      - Download Incoming (XAP): arii/transcripts/download-xap.md
+      - Move to M Drive: arii/transcripts/m-drive.md
+      - Logging in IASU: arii/transcripts/iasu-logging.md
+      - Legacy Transcript Build: arii/transcripts/legacy-build.md
+    - Petitions:
+      - Credit for Prior Learning: arii/petitions/credit-prior-learning.md
+      - Honors Contracts: arii/petitions/honors-contracts.md
+      - Academic Renewal: arii/petitions/academic-renewal.md
+      - Overlapping Classes: arii/petitions/overlapping-classes.md
+      - Prerequisite Challenge: arii/petitions/prerequisite-challenge.md
+      - SB554 Special Admit: arii/petitions/sb554.md
+    - Residency Notes: arii/residency-notes.md
+  - ARIII Procedures:
+    - Overview: ariii/index.md
+    - Responsibilities: ariii/responsibilities.md
+    - CJ/Fire General Info: ariii/cj-fire-info.md
+    - CJA Enrollment: ariii/cja-enrollment.md
+    - Fire Tech Enrollment: ariii/fire-tech-enrollment.md
+    - Applications: ariii/applications.md
+    - Fraudulent Applications: ariii/fraud.md
+    - Petitions: ariii/petitions.md
+    - Transcripts: ariii/transcripts.md
+    - Academic Probation: ariii/academic-probation.md
+  - AR Tech Procedures:
+    - Overview: artech/index.md
+    - Daily Tasks: artech/daily-tasks.md
+    - Quarterly Tasks: artech/quarterly-tasks.md
+    - Academic Standing: artech/academic-standing.md
+    - Billing Errors: artech/billing-errors.md
+    - Class Transfer: artech/class-transfer.md
+    - CORM: artech/corm.md
+    - CVC: artech/cvc.md
+    - Drops: artech/drops.md
+    - Dynamic Forms: artech/dynamic-forms.md
+    - Duplicate ID: artech/duplicate-id.md
+    - Early Decision: artech/early-decision.md
+    - End of Term: artech/end-of-term.md
+    - Grade Changes: artech/grade-changes.md
+    - Honors Contracts: artech/honors-contracts.md
+    - MIS Errors: artech/mis-errors.md
+    - Petitions: artech/petitions.md
+    - Priority Registration: artech/priority-registration.md
+    - Program Deactivation: artech/program-deactivation.md
+    - SQL Tips: artech/sql-tips.md
+    - Section Dates: artech/section-dates.md
+    - Unit Changes: artech/unit-changes.md
+    - Miscellaneous: artech/miscellaneous.md
+  - Deceased Student Process: deceased-student.md
+  - Subpoenas: subpoenas.md
