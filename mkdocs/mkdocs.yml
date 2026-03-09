@@ -48,6 +48,7 @@ nav:
     - Course Families: general/course-families.md
     - Colleague Pages Reference: general/colleague-pages.md
     - CVC Information: general/cvc-information.md
+    - Deceased Student Process: deceased-student.md
     - FERPA: general/ferpa.md
     - Waitlist Guidelines: general/waitlist-guidelines.md
     - New Staff Onboarding: general/onboarding.md
@@ -80,6 +81,7 @@ nav:
     - Home-School: arii/home-school.md
     - Open Section Enrollment: arii/open-section-enrollment.md
     - SCC Special Admit: arii/scc-special-admit.md
+    - Subpoenas: subpoenas.md
     - Transcripts:
       - Process Parchment Orders: arii/transcripts/parchment-orders.md
       - Download Incoming (Parchment): arii/transcripts/download-parchment.md
@@ -130,5 +132,3 @@ nav:
     - Section Dates: artech/section-dates.md
     - Unit Changes: artech/unit-changes.md
     - Miscellaneous: artech/miscellaneous.md
-  - Deceased Student Process: deceased-student.md
-  - Subpoenas: subpoenas.md
