@@ -8,6 +8,7 @@ Applies to both individual transfers and division-requested bulk transfers for c
 ## Class Transfer Before Census
 
 **RGN:**
+
 1. Enter Student ID and detail into the old course.
 2. Update Status to **`D`** (Dropped).
 3. Backdate to before Census so the student does not get double-charged.
