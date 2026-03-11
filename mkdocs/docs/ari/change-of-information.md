@@ -8,9 +8,9 @@ Processing steps for student change of information requests through Dynamic Form
 
 ## Locating Request on Dynamic Forms
 
-Step 1: Navigate to [https://dynamicforms.ngwebsolutions.com/AdminPortal](https://dynamicforms.ngwebsolutions.com/AdminPortal)
+1. Navigate to [https://dynamicforms.ngwebsolutions.com/AdminPortal](https://dynamicforms.ngwebsolutions.com/AdminPortal)
 
-Step 2: Find Student Change of Information Request Form and Click Number Under Multi-Pending
+2. Find Student Change of Information Request Form and Click Number Under Multi-Pending
 
 ![Find Student Change of Information Request Form](../images/locatingrequest1.jpeg)
 
@@ -22,23 +22,23 @@ Step 3: Click "Complete Form"
 
 ## Address Change
 
-Step 4: Navigate to NAE on Colleague
+Step 1: Navigate to NAE on Colleague
 
-Step 5: Type in Student ID Number and press "Enter"
+Step 2: Type in Student ID Number and press "Enter"
 
-Step 6: Click this icon.
+Step 3: Click this icon.
 
 ![Click icon](https://colony-recorder.s3.amazonaws.com/files/2023-12-15/62d5474b-6bbf-48c4-8c19-d446d345adea/ascreenshot.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2JDELI43356LVVTC%2F20260311%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260311T103641Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=2ee184a87f9d4f20ee39deaf3888dba2592d195b3510f81ea421de98f746111c)
 
-Step 7: Click "1"
+Step 4: Click "1"
 
 ![Click 1](https://colony-recorder.s3.amazonaws.com/files/2023-12-15/eaf7392f-01b8-4d97-82b3-8741e3d1912a/ascreenshot.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2JDELI43356LVVTC%2F20260311%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260311T103641Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=1657b400bc5bd2e1476e35f8e7eb13d0d3dcb9939bf0dac138ca500dfb303ae6)
 
-Step 8: Click "Insert"
+Step 5: Click "Insert"
 
 ![Click Insert](https://colony-recorder.s3.amazonaws.com/files/2023-12-15/7024d624-6f8f-4d68-b8bb-eae4036d62a8/ascreenshot.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2JDELI43356LVVTC%2F20260311%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260311T103641Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=ce247dc3aaf68ed035a4024dde476ee2fba509fa2f4dd33ab5141bdd4aca9fdc)
 
-Step 9: Click this icon.
+Step 6: Click this icon.
 
 ![Complete icon](https://colony-recorder.s3.amazonaws.com/files/2023-12-15/0ab96085-8217-4a2d-a2a9-c2de60dc4dbc/ascreenshot.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2JDELI43356LVVTC%2F20260311%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260311T103641Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=9b446ae6b54e4442a14b13d70185eeb7c03248d7602533f707290e5e4c6ea1b7)
 
