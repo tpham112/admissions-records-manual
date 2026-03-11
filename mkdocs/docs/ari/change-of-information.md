@@ -6,18 +6,15 @@ Processing steps for student change of information requests through Dynamic Form
 
 ---
 
-## Locating Form on Dynamic Forms
+## Locating Request on Dynamic Forms
 
-### Step 1: Navigate to Dynamic Forms
-Navigate to [https://dynamicforms.ngwebsolutions.com/AdminPortal](https://dynamicforms.ngwebsolutions.com/AdminPortal)
+Step 1: Navigate to [https://dynamicforms.ngwebsolutions.com/AdminPortal](https://dynamicforms.ngwebsolutions.com/AdminPortal)
 
-### Step 2: Find and Select Form
-Find Student Change of Information Request Form and Click Number Under Multi-Pending
+Step 2: Find Student Change of Information Request Form and Click Number Under Multi-Pending
 
 ![Find Student Change of Information Request Form](https://colony-recorder.s3.amazonaws.com/files/2023-12-15/1fe0c83d-432b-4442-8fa3-095eeda5a3e8/ascreenshot.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2JDELI43356LVVTC%2F20260311%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260311T103641Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=fd091046b8041914253c209126506d99d02cf05fcee9fafaea355c58c5ec020e)
 
-### Step 3: Complete Form
-Click "Complete Form"
+Step 3: Click "Complete Form"
 
 ![Click Complete Form](https://colony-recorder.s3.amazonaws.com/files/2023-12-15/4f508d70-942a-4e42-8cc9-0806049a4f88/ascreenshot.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2JDELI43356LVVTC%2F20260311%2Fus-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260311T103641Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a3fcc8c6d9d7bd373bd8e589cab2ba5b9c5c7acd338cef449b820b3709597e1f)
 
