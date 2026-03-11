@@ -12,7 +12,7 @@ Step 1: Navigate to [https://dynamicforms.ngwebsolutions.com/AdminPortal](https:
 
 Step 2: Find Student Change of Information Request Form and Click Number Under Multi-Pending
 
-![Find Student Change of Information Request Form](../images/locatingrequest1.jpeg){ width="600" }
+![Find Student Change of Information Request Form](../images/locatingrequest1.jpeg)
 
 Step 3: Click "Complete Form"
 
