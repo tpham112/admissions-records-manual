@@ -19,6 +19,8 @@
 
 ## Verification Letters
 
+*When a student needs us to provide a enrollment verification letter for them.*
+
 **Fee:** $2 at the Cashier's Office (no charge for SAC's Childcare program).
 
 1. Confirm payment (initial receipt required).
@@ -45,8 +47,9 @@
 
 *When a student provides a form for us to complete.*
 
-- Cannot process until the **3rd week of the semester** or **after the refund/drop deadline**.
-- **Fee:** $2 at Cashier's Office
+**Fee:** $2 at the Cashier's Office (no charge for SAC's Childcare program).
+
+!!! warning "Cannot process until the **3rd week of the semester** or **after the refund/drop deadline**."
 
 1. Check class details to confirm drop date.
 2. Complete the form.
@@ -80,20 +83,23 @@
 
 ## Non-Enrollment Letters
 
-Only issued if the student enrolled but dropped **before** the course appears on transcripts. If enrollment appears on transcript, direct them to order an official transcript.
+- Only issued if the student enrolled but dropped **before** the course appears on transcripts. If enrollment appears on transcript, direct them to order an official transcript.
+
+!!! note "Can escalate if it is a special case."
 
 ---
 
 ## Special Letters
 
 - Minor edits to standard letters may be allowed.
-- Must be approved by **Mark or Hung** before release.
+- Must be approved by **Dean or Associate Dean** before release.
 
 ---
 
 ## Student/Educational Institution Verifications
 
-- **Fee:** $2
+**Fee:** $2
+
 - Do **not** fill out external forms directly.
 - Instead: write clarifications directly on the form (if necessary) and attach a standard SAC verification letter.
 
