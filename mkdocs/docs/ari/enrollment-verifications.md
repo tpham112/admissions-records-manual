@@ -85,7 +85,8 @@
 
 - Only issued if the student enrolled but dropped **before** the course appears on transcripts. If enrollment appears on transcript, direct them to order an official transcript.
 
-!!! note "Can escalate if it is a special case."
+!!! note 
+    Feel free to escalate if it is a special case.
 
 ---
 
