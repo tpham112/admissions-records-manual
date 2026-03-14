@@ -4,6 +4,8 @@
 
 The Family Educational Rights and Privacy Act (FERPA) protects the privacy of student records by prohibiting the disclosure of personal information without express consent. To ensure legal compliance, staff must obtain a signed FERPA Release before sharing any non-directory data with third parties.
 
+---
+
 ## Processing Steps
 
 1. Navigate to **Colleague → PERC**.
@@ -47,6 +49,8 @@ Common College Directory Information Includes:
 
 ### Important Notes:
 
-- **Opt-Out Right:** Students have the right to restrict the release of this information by filing a "FERPA block" or privacy request with the registrar.
-- **Not Mandatory Release:** Institutions are not required to release directory information; they may do so, but are not obligated to.
-- **What is NOT Included:** Social security numbers, student ID numbers (if usable to access records directly), grades, GPA, and disciplinary records are strictly protected and never considered public directory information. 
+| Note | Description |
+|------|-------------|
+| **Opt-Out Right:** | Students have the right to restrict the release of this information by filing a "FERPA block" or privacy request with the registrar. |
+| **Not Mandatory Release:** | Institutions are not required to release directory information; they may do so, but are not obligated to. |
+| **What is NOT Included:** | Social security numbers, student ID numbers (if usable to access records directly), grades, GPA, and disciplinary records are strictly protected and never considered public directory information. |
