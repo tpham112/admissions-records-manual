@@ -4,11 +4,12 @@ The Family Educational Rights and Privacy Act (FERPA) protects the privacy of st
 
 ## Processing Steps
 
-1. Open **PERC**.
-2. Enter the **Student ID**.
-3. Enter **1FEPA** on an empty line.
-4. **Timestamp** the entry.
-5. Make comments about:
+1. Navigate to **Colleague → PERC**.
+2. Enter the **Student ID** and press **Enter**.
+3. Insert a new line by clicking on the **1** button and click **Insert**.
+4. Enter `1FEPA` in the empty line.
+5. **Timestamp** the entry.
+6. Make comments about:
     - Who the student is releasing information to
     - What information they would like released
-6. **Save All**.
+7. Click **Save All**.
