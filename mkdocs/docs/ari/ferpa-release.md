@@ -1,8 +1,8 @@
 # FERPA Release
 
-Processing a student's FERPA release authorization in Colleague.
+The Family Educational Rights and Privacy Act (FERPA) protects the privacy of student records by prohibiting the disclosure of personal information without express consent. To ensure legal compliance, staff must obtain a signed FERPA Release before sharing any non-directory data with third parties.
 
-## Steps
+## Processing Steps
 
 1. Open **PERC**.
 2. Enter the **Student ID**.
