@@ -37,7 +37,7 @@ The Financial Aid office issues **High School Status Discrepancy** forms when a 
     | **Foreign Diploma** | Completed high school in another country |
     
 ### 5. Save Changes
-- Click **Save All**.
+- Click **Save All** to apply the update to the student's record.
 
 ## Completion
 
