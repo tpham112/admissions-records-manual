@@ -43,3 +43,6 @@ We set up these automated processes once students are able to register for upcom
 ![Set Up the Automated Process](../images/waitlist-rollover4.png)
 
 - Click **Save All**.
+
+!!! note
+    After automated processes are set up, make sure to update **Automated Procedures on Colleague** excel sheet in the **ADMIN & OPERATIONS** found in the **SAC A&R TECHS** folder.
