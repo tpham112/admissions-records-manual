@@ -15,5 +15,6 @@ If the Division needs an individual WL rollover for one section during the day:
 
 ### 2. Update the Necessary Fields
 ![Update The Necessary Fields](../images/waitlist-rollover1.png)
+- Click **Save All** 3 times.
 
 ### WLAV Automated Process Setup
