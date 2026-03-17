@@ -1,5 +1,7 @@
 # Enrollment Verifications
 
+## Overview
+
 Procedures for processing enrollment verification requests from students, third parties, and institutions, including applicable fees, FERPA requirements, and processing timelines.
 
 
