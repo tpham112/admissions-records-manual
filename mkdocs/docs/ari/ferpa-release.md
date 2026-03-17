@@ -10,39 +10,39 @@ Students can submit FERPA Release Requests through [https://sac.edu/ferpa](https
 
 ## Entering a FERPA Release Request on Colleague
 
-### 1. Access the Student Record
-- Navigate to **Colleague → PERC**.
-- Enter the **Student ID** and press **Enter**.
+1. Access the Student Record
+    - Navigate to **Colleague → PERC**.
+    - Enter the **Student ID** and press **Enter**.
 
-### 2. Add FERPA Code
-- Insert a new line by clicking on the **1** button and click **Insert**.
-- Enter `1FEPA` in the empty line.
-- **Timestamp** the entry.
-- Make comments about:
-    - Who the student is releasing information to
-    - What information they would like released
+2. Add FERPA Code
+    - Insert a new line by clicking on the **1** button and click **Insert**.
+    - Enter `1FEPA` in the empty line.
+    - **Timestamp** the entry.
+    - Make comments about:
+        - Who the student is releasing information to
+        - What information they would like released
 
-### 3. Save Changes
-- Click **Save All** to apply the update to the student's record.
+3. Save Changes
+    - Click **Save All** to apply the update to the student's record.
 
 ---
 
 ## Releasing Information to Someone Other Than the Student
 
-### 1. Access the Student Record
-- Navigate to **Colleague → PERC**.
+1. Access the Student Record
+    - Navigate to **Colleague → PERC**.
 
-### 2. Verify if the Student Has a FERPA Release
-- Check to see if there is a **1FEPA** hold.
-    - If there is no 1FEPA in PERC, navigate to **Colleague → BIO**.
-        - Check if Directory Information has a **Y**.
-        - If **Y**, then we can release directory information (more information below). If **N**, we cannot release directory information.
-    - If there is a **1FEPA** hold, proceed to the following steps.
+2. Verify if the Student Has a FERPA Release
+    - Check to see if there is a **1FEPA** hold.
+        - If there is no 1FEPA in PERC, navigate to **Colleague → BIO**.
+            - Check if Directory Information has a **Y**.
+            - If **Y**, then we can release directory information (more information below). If **N**, we cannot release directory information.
+        - If there is a **1FEPA** hold, proceed to the following steps.
 
-### 3. Verify That We Can Release Information to the Requestor
-- Detail into the hold.
-- Verify that the requestor matches the 1FEPA comments by asking for ID.
-- Release only the information specified in the comments.
+3. Verify That We Can Release Information to the Requestor
+    - Detail into the hold.
+    - Verify that the requestor matches the 1FEPA comments by asking for ID.
+    - Release only the information specified in the comments.
 
 ---
 
