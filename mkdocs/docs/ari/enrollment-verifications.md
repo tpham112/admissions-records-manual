@@ -16,13 +16,13 @@ Procedures for processing enrollment verification requests from students, third 
 
 ## Verification Letters
 
-### 1. Confirm payment
+1. Confirm payment
 - Initial receipt required ($2 at Cashier's Office; no charge for SAC's Childcare program).
 
-### 2. Complete or generate the verification letter
+2. Complete or generate the verification letter
 - Write **N/A** in any areas that are Not Applicable.
 
-### 3. Use **STAC or RGN** to confirm unit load:
+3. Use **STAC or RGN** to confirm unit load:
 - **Full-time:**
     - Spring/Fall: 12+ units
     - Summer/Intersession: 6+ units
@@ -30,11 +30,12 @@ Procedures for processing enrollment verification requests from students, third 
     - Spring/Fall: 11 or fewer units
     - Summer/Intersession: 5 or fewer units
 
-### 4. Make the Letter Official
+4. Make the Letter Official
 - Stamp with Mark's signature, then crimp and seal the letter.
 
-### 5. Send Out the Letter
+5. Send Out the Letter
 - Email or mail the letter out for the student.
+
 ---
 
 ## Verification Forms
