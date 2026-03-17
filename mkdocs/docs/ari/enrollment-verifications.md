@@ -43,13 +43,13 @@ Procedures for processing enrollment verification requests from students, third 
 !!! warning
     Cannot process until the **3rd week of the semester** or **after the refund/drop deadline**
 
-### 1. Check class details to confirm drop date
+1. Check class details to confirm drop date
 
-### 2. Complete the form
-- If needed, send to other departments via interoffice mail for completion
+2. Complete the form
+    - If needed, send to other departments via interoffice mail for completion
 
-### 3. Make the Verification Official
-- Stamp with Mark's signature and crimp
+3. Make the Verification Official
+    - Stamp with Mark's signature and crimp
 
 !!! note
     If the student has a **deadline**, attach a verification letter explaining the drop date hasn't passed and staple it to the original form
@@ -61,22 +61,22 @@ Procedures for processing enrollment verification requests from students, third 
 !!! note
     No fee (typically government forms)
 
-### 1. Verify data
-- If discrepancies exist, explain in the Remarks section
+1. Verify data
+    - If discrepancies exist, explain in the Remarks section
 
-### 2. Attach unofficial transcript stamped on the back
+2. Attach unofficial transcript stamped on the back
 
-### 3. Seal in envelope and send via outgoing mail
+3. Seal in envelope and send via outgoing mail
 
 ---
 
 ## 3rd Party Verifications
 
-### 1. Refer to [National Student Clearinghouse](https://www.studentclearinghouse.org/) when possible
+1. Refer to [National Student Clearinghouse](https://www.studentclearinghouse.org/) when possible
 
-### 2. If a formal written request is submitted:
-- Require a **$2 check payable to RSCCD**
-- Student must submit a verification letter request and pay at Cashier's Office
+2. If a formal written request is submitted:
+    - Require a **$2 check payable to RSCCD**
+    - Student must submit a verification letter request and pay at Cashier's Office
 
 ---
 
