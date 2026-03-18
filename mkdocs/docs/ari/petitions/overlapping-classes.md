@@ -1,17 +1,10 @@
 # Petition for Overlapping Classes
 
-## 1. Form Completion (Paper)
+## Overview
 
-Ensure the **Petition for Overlapping Classes** form is fully completed and includes **all required signatures**:
+The Petition for Overlapping Classes allows a student to request to register for a course that is overlapping with another course.
 
-- Student
-- Instructor of the overlapping course
-- Division Dean
-- Vice President of Academic Affairs
-
----
-
-## 2. Instructor Responsibilities
+### Instructor Responsibilities
 
 The **overlapping class** is the one where the instructor is allowing the student to arrive late or leave early. That instructor must:
 
@@ -20,13 +13,14 @@ The **overlapping class** is the one where the instructor is allowing the studen
 
 ---
 
-## 3. Add/Registration Process
+1. Add/Registration Process
+    - **Add the course through RGN**.
+    - If the class is full and the student is **waitlisted**, you may override the waitlist if:
+        - The class has started.
+        - Instructor permission is already on the Overlap Petition itself.
 
-1. **Add the course through RGN**.
-2. If the class is full and the student is **waitlisted**, you may override the waitlist if:
-    - The class has started.
-    - Instructor permission is already on the Overlap Petition itself.
-3. Detail into course on **STAC**.
+2. Flag the Course as an Overlap
+    - Detail into course on **STAC**.
     - Detail into **Notes/Comments**.
     - Enter **`OVRLP`** into **Notes/Dates** and **Save All**.
 
@@ -35,32 +29,13 @@ The **overlapping class** is the one where the instructor is allowing the studen
 
 ---
 
-## 4. Form Handling (Paper)
-
-Staff should:
-
-- **Initial and date** the form.
-- **Add Student ID and Instructor Email** to a tracking list to revisit during finals week.
-- **Scan to Laserfiche**.
-
----
-
-## 5. Finals Week Procedures
+## Finals Week Procedures
 
 AR Techs will email instructors requesting time sheets.
 
 ---
 
-## 6. Finalizing Records
-
-Once the **completed time sheet is received**:
-
-- **Scan to Laserfiche**.
-- You may accept a **scanned/emailed copy** of the time sheet.
-
----
-
-## 7. Special Cases
+## Special Cases
 
 ### Student Dropped from Class
 If the student **dropped or was dropped** from the class, you may accept an **email explanation from the instructor** in place of the time sheet.
