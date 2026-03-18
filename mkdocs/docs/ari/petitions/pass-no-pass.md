@@ -20,7 +20,13 @@
     - **Double-click SACD**.
 4. Make Notes
     - Detail into **Notes/Comments**.
+
+    ![Detail into Notes/Comments](../../images/pnp-entry2.png)
+
     - Enter **`PASS`** in Notes/Dates.
+
+    ![Enter Pass in Notes/Dates](../../images/pnp-entry3.png)
+
 6. Save Changes
     - Click **Save All**.
 
