@@ -26,5 +26,6 @@ This section covers procedures handled by ARI (Admissions & Records I) staff, in
 | Procedure | Description |
 |-----------|-------------|
 | [Overlapping Classes](petitions/overlapping-classes.md) | Processing Overlapping Classes |
+| [Overload](petitions/overload.md) | Processing Overload Petitions |
 | [Pass/No Pass](petitions/pass-no-pass.md) | Processing Pass/No Pass Petitions |
 | [Prerequisite Challenge](petitions/prerequisite-challenge.md) | Processing Prerequisite Challenges |

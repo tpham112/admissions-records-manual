@@ -132,15 +132,6 @@ Go directly to **STAC**:
 
 ---
 
-## Unit Overload Petition
-
-When a student wants to exceed the allowed units for the term:
-1. Student must complete a **Student Overload Petition** and meet with a counselor for signature.
-2. Once signed, student brings it to Admissions for processing.
-3. Input on **STPE**.
-
----
-
 ## Pass-Along Petitions
 
 **Check GE Evaluation Notes** — the Articulation Officer notes which areas to input.
