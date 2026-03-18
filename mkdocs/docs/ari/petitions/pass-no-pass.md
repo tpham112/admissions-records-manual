@@ -29,6 +29,3 @@
 
 6. Save Changes
     - Click **Save All**.
-
-!!! note
-    Screenshot of the STAC Notes screen is stored in the original Word manual for reference. Add screenshot here when available.
