@@ -1,28 +1,32 @@
 # Pass/No Pass Petition
 
-## RGN Steps
+## Processing Steps
 
 1. Access the Student Record
     - Navigate to **Colleague → RGN**.
     - Enter the **Student ID** and press **Enter**.
 2. Update Section Record
-    - Update the grading mode to Pass/No Pass.
+    - Update the grading mode to `P` for **Pass/No Pass**.
+
+    ![Update grading mode to P](../../images/pnp-entry1.png)
+
 3. Save Changes
     - Click **Save All**.
 
 !!! note
     Screenshot of the RGN screen is stored in the original Word manual for reference. Add screenshot here when available.
 
----
-
-## STAC Steps
-
-1. Enter the **Student ID**.
-2. **Detail into** the course.
-3. **Double-click SACD**.
-4. Detail into **Notes/Comments**.
-5. Enter **`PASS`** in Notes/Dates.
-6. **Save All**.
+4. Open Student Academic Credits
+    - Navigate to **Colleague → STAC**.
+    - Enter the **Student ID**.
+5. Access the Course
+    - **Detail into** the course.
+    - **Double-click SACD**.
+4. Make Notes
+    - Detail into **Notes/Comments**.
+    - Enter **`PASS`** in Notes/Dates.
+6. Save Changes
+    - Click **Save All**.
 
 !!! note
     Screenshot of the STAC Notes screen is stored in the original Word manual for reference. Add screenshot here when available.
