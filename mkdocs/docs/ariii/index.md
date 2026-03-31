@@ -2,7 +2,7 @@
 
 ARIII handles academy enrollments, incoming college transcript evaluation, application batch processing, petitions, and more.
 
-## Responsibilities
+## Procedures in This Section
 
 | Area | Description |
 |------|-------------|
