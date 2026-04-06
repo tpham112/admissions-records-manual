@@ -221,6 +221,9 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
 !!! warning "EA Drops After W Deadline"
     Instructors requesting an EA drop after the withdrawal deadline need a **Division Dean's signature** before processing.
 
+!!! warning "Grade Changes One Year After the End of the Section"
+    Instructors requesting a grade change one year after the end of section have their requests forwarded to the **VP of Academic Affairs** for approval before being routed to Admissions & Records to process.
+
 **STAC:**
 
 1. Enter **Student ID** and detail into the course.
