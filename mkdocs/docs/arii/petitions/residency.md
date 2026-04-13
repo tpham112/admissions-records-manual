@@ -20,10 +20,7 @@
 
 ### Core Rules
 
-- ✅ Residency can be updated **only for the current term**.
-- ❌ No retroactive reclassification for a **completed term**.
-- ✅ Backdating is allowed **only if the term has not ended**.
-- ⛔ No non-resident tuition refunds **after first census** (AR 5015).
+- ✅ Residency can be updated **for terms within the last year**.
 
 ### Timing & Backdating
 
@@ -31,10 +28,7 @@ Residency date = **one day before term start** (e.g., term starts 6/16/25 → en
 
 | Can Reclassify | Cannot Reclassify |
 |----------------|-------------------|
-| Term is still in progress | Term has ended AND no petition was submitted during that term |
-| Petition was submitted before the term ended | |
-
-**Transitional Exception:** Applications from **2024SU–2025** may be processed within one year. Starting with **2026 applications**, residency must be fixed within the term.
+| If it has not been longer than a year since the end of the term | It has been longer than a year since the requested term |
 
 ### Proof Requirements
 
@@ -44,7 +38,7 @@ Residency date = **one day before term start** (e.g., term starts 6/16/25 → en
 Common proofs: CA Driver License (issue date), lease/rental agreement, CA voter registration (check voting history dates), CA professional license ([DCA search](https://search.dca.ca.gov/)).
 
 !!! tip
-    If documentation is incomplete, **do not deny immediately** — review for alternatives first.
+    If documentation is incomplete, **do not deny immediately** — review with leads for alternatives first.
 
 ### Who Is Eligible
 
@@ -53,15 +47,13 @@ Common proofs: CA Driver License (issue date), lease/rental agreement, CA voter 
 | U.S. Citizen | F-1 students |
 | Permanent Resident (incl. conditional) | Undocumented students |
 | PR applicants (I-485) | B visa students |
-| Asylees / asylum applicants | TD/TN visa holders (unless taking steps toward PR) |
+| Asylees / asylum applicants | TD/TN visa holders (unless taking steps toward Permanent Residency) |
 | Refugees / refugee applicants | |
 | Temporary Protected Status (TPS) | |
 | DACA (C33 only) | |
 
 ### Residency Questionnaire
 
-- **First-time applicant** → NOT required.
-- **Returning student** → REQUIRED.
 - Students may submit 2 from Group A **or** 2 from Group B.
 
 ---
@@ -74,15 +66,15 @@ Common proofs: CA Driver License (issue date), lease/rental agreement, CA voter 
 ### ASPR
 - Insert **R — California Resident**
 - Date = one day before term start
-- Ensure Resident status appears on top
+    - If unsure, check RYAT
+- Ensure Resident status appears on first line or position 1
 
 ### Comments (UTEC)
 Include: Timestamp · "California Residency" · Documents reviewed
 
 ### Final Checklist
 - ✅ Save & update records / Save all changes
-- 📞 Call Cashier's Office for rebill (provide Student ID and term)
-- ✅ Verify form is signed & complete
+- 📞 Contact Cashier's Office for rebill, if necessary (provide Student ID and term)
 
 ---
 
