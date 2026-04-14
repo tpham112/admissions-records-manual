@@ -36,12 +36,11 @@ Go directly to **STAC**:
 
 1. Find the course that matches the form → drill down.
 2. Insert a line.
-3. Status: **Dropped**
+3. Status: `D`
 4. Date:
-    - If before the last day to drop with a W: use today's date or leave the student's original drop date.
-    - If after the last day to drop with a W: use the **last day to drop with a W** (find on SRGD).
-5. Reason: **EW**
-6. Grade: **EW**
+    - Use the student's **submission date**.
+5. Reason: `EW`
+6. Grade: `EW`
 7. Add only a timestamp in Notes/Comments (lower right corner).
 
 !!! note "Screenshot Placeholder"
@@ -54,8 +53,8 @@ Go directly to **STAC**:
 1. Remove grade in **RGCS**.
 2. STAC → find the course → drill down.
 3. Edit the existing drop line:
-    - Reason: **EW**
-    - Grade: **EW**
+    - Reason: `EW`
+    - Grade: `EW`
     - Notes/Comments: Add "Approved EW" + timestamp.
     - If after section end date: include **IGC** in Notes/Dates.
 
@@ -70,10 +69,10 @@ Go directly to **STAC**:
 2. Remove grade in **RGCS**.
 3. STAC → find the course → drill down.
 4. Insert a line:
-    - Status: **Dropped**
+    - Status: `D`
     - Date: **Before the last day to drop with a W** (find on SRGD)
-    - Reason: **EW**
-    - Grade: **EW**
+    - Reason: `EW`
+    - Grade: `EW`
     - Notes/Comments: Timestamp only.
     - If after section end date: include **IGC** in Notes/Dates and note the original grade (e.g., *"F to EW"*).
 
