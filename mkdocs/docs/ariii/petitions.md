@@ -38,7 +38,13 @@ Go directly to **STAC**:
 2. Insert a line.
 3. Status: `D`
 4. Date:
-    - Use the student's **submission date**.
+    - If the petition was submitted before the last day to drop with a W
+        - Use the student's **submission date**.
+    - If the petition was submitted after the last day to drop with a W
+        - Use the last day to drop with a W
+    - How to find the last day to drop with a W
+        - Navigate to Colleague → **SRGD**.
+        - Find the Drop End Date (This is the last day to drop with a W)
 5. Reason: `EW`
 6. Grade: `EW`
 7. Add only a timestamp in Notes/Comments (lower right corner).
