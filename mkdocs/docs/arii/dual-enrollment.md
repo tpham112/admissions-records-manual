@@ -11,6 +11,13 @@ Provide each student submitting a Special Admit Form / Add Card with the handout
 
 ---
 
+## Dual Enrollment Students With Expired Dates
+
+- Verify that they are still high school students.
+- Update COAF and enter a new year with Active status.
+
+---
+
 ## Home-School Students
 
 Students selecting "Home School" as their high school will be:
