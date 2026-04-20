@@ -21,6 +21,8 @@
 ### Core Rules
 
 - ✅ Residency can be updated **for terms within the last year**.
+- If it has been longer than a year since the student's last application, the newest application's status will take precedence.
+    - E.g., if a student submitted a Non-Resident application in 2025SU and submits a new application for 2026SU as a Resident, we can update to CA Resident based on the CCCApply application.
 
 ### Timing & Backdating
 
