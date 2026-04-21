@@ -2,26 +2,27 @@
 
 ## CVC Students Needing to Rebill as SAC Students
 
-**STAC:** Note when the student registered.
+1. Check the student record.
+    - Navigate to **Colleague → STAC**.
+    - Take a screenshot of when the student registered.
 
-**RGSD:** Update to the date of registration.
+2. Update the system registration date.
+    - Navigate to **Colleague → RGSD**.
+    - Update to the date of registration.
 
-**RGN:**
+3. Drop and re-register the student.
+    - Navigate to **Colleague → RGN**.
+    - Drop the student from the course.
+    - Re-register.
+    - Check STAC to verify the times of drops and adds make sense — otherwise the rebill will not work.
 
-1. Drop the student from the course.
-2. Re-register.
-3. Check STAC to verify the times of drops and adds make sense — otherwise the rebill will not work.
+4. Update student programs.
+    - Navigate to **Colleague → SPRO**.
+    - Make sure the CVC program is turned off for the desired term.
+        - If needed, push dates back so the CVC program is off before registration, and the SAC program is active by the time of registration.
 
-**SPRO:**
-
-1. Make sure the CVC program is turned off.
-2. If needed, push dates back so the CVC program is off before registration, and the SAC program is active by the time of registration.
-
-**ASPR**
-
-1. If the student's residency status is `F`, update to `N` since the system does not recognize CVC students with F status.
-
-**Cashier's:** Ask for rebill.
+5. Update student residency status.
+    - If the student's residency status is `F`, update to `N` since the system does not recognize CVC students with F status.
 
 ---
 
@@ -40,22 +41,21 @@
 
 Cashier may request removing a drop so they can rebill (to have certain fee waivers apply), before reinstating the W drop. This only applies to W drops.
 
-**STAC:**
+1. Remove grades and/or drops from **STAC**.
+    - Navigate to **Colleague → STAC**.
+    - Take screenshot of all classes and identify the class.
+    - Take screenshot of detail view showing when it was dropped (date and time).
+    - Delete the drop line (if applicable).
+    - Remove W or grade.
 
-1. Take screenshot of all classes and identify the class.
-2. Take screenshot of detail view showing when it was dropped (date and time).
-3. Delete the drop line (if applicable).
-4. Remove W or grade.
+2. Remove grades from **RGCS**.
+    - Navigate to **Colleague → RGCS**.
+    - Remove W or grade.
+    - Let Cashier's know to rebill.
 
-**RGCS:** Remove W or grade.
-
-Let Cashier's know to rebill.
-
-Once rebill is complete:
-
-**STAC:** Update the time and re-enter W or grade.
-
-**RGCS:** Verify W or grade is showing.
+3. Re-enter grades and/or drops on **STAC**.
+    - Navigate to **Colleague → STAC**.
+    - Update the time and re-enter W or grade.
 
 !!! note
     No need to file anything — no true changes were made to the record.
