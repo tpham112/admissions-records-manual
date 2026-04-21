@@ -26,17 +26,6 @@
 
 ---
 
-## ARTI
-
-- Displays total outstanding balances.
-- Read only the **first line**.
-
-## ARBC
-
-- Displays term charges breakdown.
-
----
-
 ## Cashier Remove Drop — Rebill Request
 
 Cashier may request removing a drop so they can rebill (to have certain fee waivers apply), before reinstating the W drop. This only applies to W drops.
@@ -58,3 +47,16 @@ Cashier may request removing a drop so they can rebill (to have certain fee waiv
 
 !!! note
     No need to file anything — no true changes were made to the record.
+
+---
+
+## Helpful Billing Screens
+
+### ARTI
+
+- Displays total outstanding balances.
+- Read only the **first line**.
+
+### ARBC
+
+- Displays term charges breakdown.
