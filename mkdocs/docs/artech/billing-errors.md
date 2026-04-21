@@ -7,13 +7,19 @@
 **RGSD:** Update to the date of registration.
 
 **RGN:**
+
 1. Drop the student from the course.
 2. Re-register.
 3. Check STAC to verify the times of drops and adds make sense — otherwise the rebill will not work.
 
 **SPRO:**
+
 1. Make sure the CVC program is turned off.
 2. If needed, push dates back so the CVC program is off before registration, and the SAC program is active by the time of registration.
+
+**ASPR**
+
+1. If the student's residency status is `F`, update to `N` since the system does not recognize CVC students with F status.
 
 **Cashier's:** Ask for rebill.
 
@@ -35,6 +41,7 @@
 Cashier may request removing a drop so they can rebill (to have certain fee waivers apply), before reinstating the W drop. This only applies to W drops.
 
 **STAC:**
+
 1. Take screenshot of all classes and identify the class.
 2. Take screenshot of detail view showing when it was dropped (date and time).
 3. Delete the drop line (if applicable).
