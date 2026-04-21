@@ -43,8 +43,7 @@ Cashier may request removing a drop so they can rebill (to have certain fee waiv
 
 1. Remove grades and/or drops from **STAC**.
     - Navigate to **Colleague → STAC**.
-    - Take screenshot of all classes and identify the class.
-    - Take screenshot of detail view showing when it was dropped (date and time).
+    - Take screenshot of detail view showing when the class was dropped (date and time).
     - Delete the drop line (if applicable).
     - Remove W or grade.
 
