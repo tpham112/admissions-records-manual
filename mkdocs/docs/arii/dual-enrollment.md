@@ -54,6 +54,7 @@ The following errors (marked in yellow) are resolved by A&R staff:
 | PERSON.ST record with ID 'XXXXXXX' is locked. | Cancel out of student file in Colleague, resubmit |
 | Error submitting drop: You do not have permission to remove courses during the reg period | Check possible reason and update student |
 | Could not drop student from course section XXX — student not registered | Check STAC if student already dropped; terminate attempt |
+| SAC Student record does not currently list a valid active Organization Membership (CORM) for this registration. Review and edit memberships as applicable. | Enter `1DUAL` flag for student with requested term start date and requested term end date for the following year. E.g., Start Date: 2026SU, End Date: 2027SU. Make sure to also enter STPE waiver for the course as well. |
 
 !!! info
     All other errors are resolved by the DuE Team. Reach out for questions.
