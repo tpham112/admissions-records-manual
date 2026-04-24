@@ -24,3 +24,10 @@ ARIII handles academy enrollments, incoming college transcript evaluation, appli
 | [Petitions](petitions.md) | EW petitions, Probation/Dismissal |
 | [Transcripts — Incoming Colleges](transcripts.md) | Total transfer unit evaluation/processing, GE evaluation, pseudo processing |
 | [Academic Probation](academic-probation.md) | Probation codes, dismissal, and intervention |
+
+## Petition Procedures
+
+| Procedure | Description |
+|-----------|-------------|
+| [Excused  Withdrawals](petitions/excused-withdrawals.md) | Processing excused withdrawal petitions |
+| [Probation Hold Releases](petitions/probation-hold-releases.md) | Processing probation hold releases |
