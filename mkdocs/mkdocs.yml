@@ -111,6 +111,7 @@ nav:
     - Applications: ariii/applications.md
     - Fraudulent Applications: ariii/fraud.md
     - Petitions: ariii/petitions.md
+      - Excused Withdrawals: ariii/petitions/excused-withdrawals.md
     - Transcripts: ariii/transcripts.md
     - Academic Probation: ariii/academic-probation.md
   - AR Tech Procedures:
