@@ -60,14 +60,5 @@ Students must have **two years of the same foreign language** with a grade of **
 
     - Click **Save All**
 
-To enter Language Proficiency, go to **EXTS** and follow the steps below.
-
-!!! note "Screenshot Placeholders"
-    The EXTS entry screens for language proficiency are heavily screenshot-based in the original Word manual. Add them here when available. The workflow includes:
-
-    1. Open EXTS → find/enter the student's high school.
-    2. Enter the foreign language courses from the transcript.
-    3. Map each course to the appropriate equivalency.
-    4. Save All.
-
-After processing, verify in **TRAN** that the language proficiency appears correctly on the transcript.
+!!! warning "Check Your Work!"
+    After processing, verify in **TRAN** that the language proficiency appears correctly on the transcript.
