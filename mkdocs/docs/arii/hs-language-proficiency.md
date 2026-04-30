@@ -42,7 +42,21 @@ Students must have **two years of the same foreign language** with a grade of **
 
 ---
 
-## Entry in EXTS
+## Processing Steps
+
+1. Update Student Record
+    - Navigate to **Colleague → EXTS**.
+    - Enter the Student ID number.
+    - Select the student's high school by double-clicking the school.
+    - Detail into a new line.
+    - Fill in the following fields.
+    | Field | Entry |
+    |-|-|
+    | External Course | Type in `LNG PROF` |
+    | End Date | Type 05/31/YY (Spring), 07/31/YY (Summer), or 12/31/YY (Fall) for when the student completed the course |
+    | Title | Type `Language Proficiency` |
+    | Credits | Type `0.00` |
+    - Click **Save All**
 
 To enter Language Proficiency, go to **EXTS** and follow the steps below.
 
