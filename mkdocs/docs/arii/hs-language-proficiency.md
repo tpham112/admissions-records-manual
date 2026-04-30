@@ -53,10 +53,10 @@ Students must have **two years of the same foreign language** with a grade of **
 
         | Field | Entry |
         |-|-|
-        | External Course | Type in `LNG PROF` |
-        | End Date | Type 05/31/YY (Spring), 07/31/YY (Summer), or 12/31/YY (Fall) for when the student completed the course |
-        | Title | Type `Language Proficiency` |
-        | Credits | Type `0.00` |
+        | External Course | Type in `LNG PROF`. |
+        | End Date | Type 05/31/YY (Spring), 07/31/YY (Summer), or 12/31/YY (Fall) for when the student completed the course. |
+        | Title | Type in `Language Proficiency`. |
+        | Credits | Type in `0.00`. |
 
     - Click **Save All**
 
