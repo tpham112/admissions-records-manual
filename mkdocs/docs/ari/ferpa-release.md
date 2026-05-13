@@ -67,3 +67,7 @@ Common College Directory Information Includes:
 | **Opt-Out Right:** | Students have the right to restrict the release of this information by filing a "FERPA block" or privacy request with the registrar. |
 | **Not Mandatory Release:** | Institutions are not required to release directory information; they may do so, but are not obligated to. |
 | **What is NOT Included:** | Social security numbers, student ID numbers (if usable to access records directly), grades, GPA, and disciplinary records are strictly protected and never considered public directory information. |
+| **Parents can request information:** | Only if they provide tax documentation showing that the students are dependents (FERPA (a)(8)) |
+
+!!! note
+    "Education records may be disclosed without prior consent to parents of a dependent student, as defined in Section 152 of the Internal Revenue Code of 1986 (34 CFR § 99.31(a)(8))."
