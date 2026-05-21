@@ -46,7 +46,7 @@ If a CVC student is still interested in registering for a course that has alread
 
 ## Can CVC Students Request Pass/No Pass?
 
-**Yes.** They will need a PDF request and must speak with a SAC counselor for signature before submitting to us.
+**Yes.** They must speak with a SAC counselor for signature on a PDF Form before submitting to us or have the counselor submit the Dynamic Form on their behalf (*student must know SSO login information to use Dynamic Form*).
 
 ---
 
