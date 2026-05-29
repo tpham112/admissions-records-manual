@@ -102,6 +102,35 @@ Production Sites:
 
 ---
 
+## Finding Faculty Workloads
+
+1. Pull Up Report
+    - Navigate to **Colleague → FWLR**.
+
+    | Field | What To Enter |
+    |-------|---------------|
+    | Start/End Date | Enter the dates of the terms you are looking for |
+    | Faculty Members | Enter the faculty ID number |
+
+    - Click **Save All**.
+
+---
+
+## Finding Closed Reports
+
+1. Pull Up Report
+    - Navigate to **Colleague → UTFB**.
+
+    | Field | What To Enter |
+    |-------|---------------|
+    | Directory File Name | `_HOLD_` |
+    | Item Names | `BRGN...` |
+    | Browse Options | `Browse` |
+
+    - Click **Save All**.
+
+---
+
 ## MIS Errors
 
 Check path: `\rsccd.org\diststf\Department Directories\App Data RepositoryÐ Audit Reports - Students`
