@@ -2,6 +2,9 @@
 
 Applies to both individual transfers and division-requested bulk transfers for class cancellations.
 
+!!! note
+    Division Dean approval is always required for rollovers (roster/waitlist to roster transfers).
+
 !!! warning
     Must be **same length to same length** (e.g., 8-week to 8-week; 16-week to 16-week).
 
