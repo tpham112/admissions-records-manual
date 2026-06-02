@@ -127,8 +127,11 @@ Include: Timestamp · "California Residency" · Documents reviewed
 ### Active Military
 - If stationed in CA: use orders to change status to `E` or `EB`. No minimum duration required (per Residency Overview).
     - If home of record is also CA: can make them a CA Resident.
-- **Dependents:** Spouse/child of active-duty member stationed in CA qualifies for resident classification with no limit on duration. Orders must be ≥ 1 year + 1 day before term start. Only need DEERS card (no copy) and stationed-in-CA orders.
-- If stationed outside CA: provide documentation (MOL or military record) that home of record is CA → update to `R`. If home of record is a state we can't serve, they cannot take courses with us.
+- If stationed outside CA: provide documentation (MOL or military record) that home of record is CA → update to `R`. 
+    - If home of record is a state we can't serve, they cannot take courses with us.
+- **Dependents:** 
+    - Spouse/child of active-duty member stationed in CA qualifies for resident classification with no limit on duration.
+    - Only need DEERS card (no copy) and stationed-in-CA orders.
 
 ---
 
