@@ -80,5 +80,13 @@ Go directly to **STAC**:
     - Notes/Comments: Timestamp only.
     - If after section end date: include **IGC** in Notes/Dates and note the original grade (e.g., *"F to EW"*).
 
+---
+
+### Military Withdrawals
+
+- Process just like Excused Withdrawals.
+- Can be processed with final grade without faculty approval as long as we have documentation (military orders) from the student showing that they were summoned during the courses requested for MW. 
+- If the end of the course has passed a year, we need approval from the VP of Academic Affairs (send the pdf for an email approval and Laserfiche).
+
 !!! note "Screenshot Placeholder"
     EW letter grade processing screenshots are in the original Word manual.
