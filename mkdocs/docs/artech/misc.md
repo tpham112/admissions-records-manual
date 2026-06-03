@@ -102,6 +102,14 @@ Production Sites:
 
 ---
 
+## Cross-Listed Courses Where Students Are Going Over The Cap
+
+- Check **SXRF**
+- Check **Global Capacity**
+    - If Global Capacity is set too high then the Division Office needs to fix the section to prevent too many students from registering for classes
+
+---
+
 ## Finding Faculty Workloads
 
 1. Pull Up Report
