@@ -4,9 +4,10 @@
 
 **Reference documents:**
 
-- [CA Residency Overview 2025 (CCCCO)](https://www.cccco.edu/-/media/CCCCO-Website/docs/general/2025residencyoverviewdocument42125finala11y.pdf)
+- [CA Residency Overview 2025 (CCCCO)](https://www.cccco.edu/-/media/CCCCO-Website/docs/general/2025residencyoverviewdocument42125finala11y.pdf?la=en&hash=8A1227B6F9DB6D13138B0AF0E3E5EA4EF198232D)
 - [RSCCD Administrative Regulation AR 5015](https://rsccd.edu/Trustees/Documents/ARs/ARs-Chapter%205/AR%205015%20Residence%20Determination.pdf)
 - [CA Residency Resource Tool (SAC)](https://sac.edu/StudentServices/AdmissionsRecords/Pages/ca_residency.html)
+- [USCIS EAD Codes](https://www.uscis.gov/archive/automatic-employment-authorization-document-ead-extension)
 
 ---
 
@@ -184,8 +185,9 @@ Per Ed Code §76140: a community college may classify a nonresident student **hi
 ---
 
 ### Employment Authorization
-- If issue date is sufficient: eligible for CA Resident status (EAs are only issued to PR or Asylum applicants per Residency Overview 2023).
-- If not old enough: ask for **Notice of Action** for the employment authorization.
+- Check [USCIS EAD Codes](https://www.uscis.gov/archive/automatic-employment-authorization-document-ead-extension) for code reference.
+- Check [CA Residency Overview 2025 (CCCCO)](https://www.cccco.edu/-/media/CCCCO-Website/docs/general/2025residencyoverviewdocument42125finala11y.pdf?la=en&hash=8A1227B6F9DB6D13138B0AF0E3E5EA4EF198232D) page 11 for accepted statuses.
+- If the student has an eligible status, ask for their I-797 Notice of Action of proof of the application of that status.
 
 ---
 
