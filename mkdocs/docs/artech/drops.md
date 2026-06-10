@@ -174,28 +174,34 @@ RGCS → detail into class → remove grade.
 ### Overview
 
 1. **First run** (Deregister Failed Records = **NO**) — generates suggestions for deregistration. Review list for accuracy. Load into SLED.
+
+![First Run](../images/RGVE-run-1.png)
+
 2. **Second run** — actually deregisters, referencing the SLED list.
+
+![Second Run](../images/RGVE-run-2.png)
 
 ### RGVE Setup
 
 - Set "Deregister Failed Records" to **NO** for first run.
 - Update Terms to the term you are checking.
+    - For example, if you are checking to see if students met the prerequisites for Summer 2026, enter Summer 2026.
 
 ### Filtering the Report
 
+- **Deregister?:** Show only Yes.
 - **Error Message:** Search for "The following..."
 - **Requisite Waiver Provider (Name):** Show only Blanks.
-- **Deregister?:** Show only Yes.
 
 ### Checking
 - Verify students should actually be dropped.
 
 ### Query
-- Query for `STUDENT_COURSE_SEC_ID` using `RGVE.sql`.
-- After running, double-check results — if a long list, verify section number matches the correct student. Run a match on Student IDs from the query against the drop list. Highlight multiples.
+- Query for `STUDENT_COURSE_SEC_ID` using `RGVE STUDENT COURSE SEC ID SEARCH.sql`.
+    - Concatenate the student ID number and their section number together for the search.
 
 ### Deregister
-- Create a savedlist in SLED of students to be dropped.
+- Create a savedlist in SLED of students to be dropped with the STUDENT_COURSE_SEC_ID's.
 - Use that savedlist in RGVE with Deregister = YES.
 - Download report and verify students are dropped. If "No" — check the override. If A&R staff override, manually drop for PD.
 
