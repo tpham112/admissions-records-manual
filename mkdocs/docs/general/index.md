@@ -43,3 +43,9 @@ ID is required for the following:
 
 !!! note
     ID is a common document to establish residency, but is **not required** if sufficient other documentation is submitted.
+
+## Front Counter Logins
+
+| Username | Password |
+|----------|----------|
+| sac_adm4 | AdmStaff4 |
