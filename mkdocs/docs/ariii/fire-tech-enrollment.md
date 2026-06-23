@@ -30,6 +30,7 @@
 ## N1 Drops (Academies)
 
 **STAC:**
+
 1. Detail into the desired section.
 2. Insert in Status/Dt/Time/Reason: `D / Start Date of Class / 11:59 PM / N1`
 3. Detail into Notes/Comments → Comments.
