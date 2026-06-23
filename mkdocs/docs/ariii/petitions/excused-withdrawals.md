@@ -21,9 +21,10 @@ Per Title 5, §55024(e), an EW is acceptable when a student withdraws due to rea
 
 ### Key Rules
 
-- EWs submitted **before** the end of a section: do **not** require supporting documentation.
-- EWs submitted **after** the end of a section: must be submitted with an A&G Petition through a counselor, with supporting documentation; include IGC for coding.
-- Can be requested back to **January 2018**.
+- EWs submitted **before** a grade has been posted: processed directly by Admissions & Records.
+    - **W's are not considered grades** and **will not** be routed to the faculty review committee.
+- EWs submitted **after** a grade has been posted: will be routed to a faculty review committee and then routed to Admissions & Records for final processing.
+- EWs are accepted within **one year** of the original grade posting date.
 - **CVC students** can submit EW requests but must use PDF versions (no SSO access).
 
 ---
