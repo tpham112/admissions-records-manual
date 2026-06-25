@@ -136,6 +136,14 @@ Include: Timestamp · "California Residency" · Documents reviewed
 
 ---
 
+### Asylum Documentation
+
+Sample of I-94 with Asylum status classification
+
+![Sample of I-94 with Asylum status classification](../../images/I-94.png)
+
+---
+
 ### Automatic CA Residency (by Ed Code)
 
 | Category | Ed Code |
