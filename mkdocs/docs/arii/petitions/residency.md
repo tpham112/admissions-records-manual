@@ -73,7 +73,8 @@ Common proofs: CA Driver License (issue date), lease/rental agreement, CA voter 
 
 ### Residency Questionnaire
 
-- Students may submit 2 from Group A **or** 2 from Group B.
+- Students must submit 1 proof from Group A **and** 2 from Group B.
+    - Case-by-case review for any other circumstances.
 
 ---
 
