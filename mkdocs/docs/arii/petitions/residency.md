@@ -19,24 +19,27 @@
 
 ## Quick Reference Cheat Sheet
 
-### Core Rules
+### Critical Processing Rules & Reminders
 
-- ✅ Residency can be updated **for terms within the last year**.
-    - E.g., if is currently 2026SP, we can process reclasses for 2025SP.
-    - Anything prior can be elevated to the Associate Dean.
-- We can take a new application's residence determination per Residency Overview and RSCCD Academic Regulations.
-    - E.g., if a student submitted a Non-Resident application in 2025SU and submits a new application for 2026SI as a Resident, we can update to CA Resident based on the CCCApply application.
-    - Proofs
-        - In these cases, make a comment on ASPR stating that CCCApply has classified the student as Resident..
-        - Student will not need to submit documentation for reclass.
+⚠️ **Past Terms (No Backdating):** 
 
-### Timing & Backdating
+- Residency status cannot be backdated to a previous term per [RSCCD Administrative Regulation AR 5015](https://rsccd.edu/Trustees/Documents/ARs/ARs-Chapter%205/AR%205015%20Residence%20Determination.pdf). 
+- Do not process reclassification requests for past terms. 
+- Instead, refer the student to the **Residency Appeal process** (reviewed case-by-case; denials are final).
 
-Residency date = **one day before term start** (e.g., term starts 6/16/25 → enter **6/15/25**).
+💡 **The Gold Standard:** 
 
-| Can Reclassify | Cannot Reclassify |
-|----------------|-------------------|
-| If it has not been longer than a year since the end of the term | It has been longer than a year since the requested term |
+- A *Residency Reclassification Form* is **always required** unless the most recent, current, or upcoming CCCApply application explicitly classifies them as a Resident.
+
+## Residency Reclassification Matrix
+
+| Most Recent CCCApply Status | Action Required in ASPR | Documentation Required? | Mandatory Comment / Next Steps |
+| :--- | :--- | :--- | :--- |
+| **Resident** | Update status to **Resident** for that application's term. | **No** (Form not required) | Add Comment:<br>`The most recent [Term] CCCApply application classified the student as a California Resident.` |
+| **Predetermined**<br>or<br>**Non-Resident** | Do not update until reviewed. Check **AB 540 Eligibility Status** if documentation is lacking. | **Yes** (California Residency Reclassification Form required) | Review the reason for determination in CCCApply.<br><br>*Note: If the student lacks documentation but may qualify for AB 540, discuss the AB 540 option with them.* |
+| **Foreign** | **No action.** | No (Ineligible) | Do nothing. Foreign students are not eligible for residency reclassification. |
+
+***
 
 ### Proof Requirements
 
