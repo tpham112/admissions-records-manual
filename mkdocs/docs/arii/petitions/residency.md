@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- |
 | **Resident** | Update status to **Resident** for that application's term. | **No** (Form not required) | Add Comment:<br>`The most recent [Term] CCCApply application classified the student as a California Resident.` |
 | **Predetermined**<br>or<br>**Non-Resident** | Do not update until reviewed. Check **AB 540 Eligibility Status** if documentation is lacking. | **Yes** (California Residency Reclassification Form required) | Review the reason for determination in CCCApply.<br><br>*Note: If the student lacks documentation but may qualify for AB 540, discuss the AB 540 option with them.* |
-| **Foreign** | **No action.** | No (Ineligible) | Do nothing. Foreign students are not eligible for residency reclassification. |
+| **Foreign** | **No action.** | No (Ineligible) | Do nothing. F-1 students are not eligible for residency reclassification. |
 
 ### Reclass Examples
 
