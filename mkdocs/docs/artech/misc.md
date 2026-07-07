@@ -139,6 +139,14 @@ Production Sites:
 
 ---
 
+## Long Term Sections
+
+For long-term course sections that span across two fiscal years (crossing the July 1st boundary), use the term associated with the class end date.
+- **Condition:** Class starts before July 1 and ends after July 1.
+- **Action:** Code the section using the term of the final day of class.
+
+---
+
 ## MIS Errors
 
 Check path: `\rsccd.org\diststf\Department Directories\App Data RepositoryÐ Audit Reports - Students`
