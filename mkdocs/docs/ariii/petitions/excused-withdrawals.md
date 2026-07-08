@@ -55,16 +55,35 @@ Go directly to **STAC**:
 
 ### Processing: Class Has a Grade of W
 
-1. Remove grade in **RGCS**.
-2. STAC → find the course → drill down.
-3. Edit the existing drop line:
-    - Reason: `EW`
-    - Grade: `EW`
-    - Notes/Comments: Add "Approved EW" + timestamp.
+1. Update Student Registration Changes
+    - Navigate to **Colleague → RGCS**.
+    - Remove W in **RGCS**.
+    - Click **Save All**.
+
+    ![Remove W in RGCS](../../images/ew-with-w-0.png)
+
+2. Update Student Academic Credits
+    - Navigate to **Colleague → STAC**.
+    - Detail into the desired course.
+    - Edit the existing drop line:
+        - Reason: `EW`
+        - Grade: `EW`
+
+    ![Edit existing drop line](../../images/ew-with-w-1.png)
+    
+3. Record notes
+    - Click on **Notes/Comments**.
+    - Click on **Comments**.
+        - Timestamp + "Approved EW".
+        - Click **Save**.
+
+    ![Edit existing drop line](../../images/ew-with-w-2.png)
+
     - If after section end date: include **IGC** in Notes/Dates.
 
-!!! note "Screenshot Placeholder"
-    EW W-grade processing screenshots are in the original Word manual.
+    ![Edit existing drop line](../../images/ew-with-w-3.png)
+
+    - Click **Save All**.
 
 ---
 
