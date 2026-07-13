@@ -121,6 +121,7 @@ Include: Timestamp · "California Residency" · Documents reviewed
 ### AB 540 — Student Forgot to Turn In Form
 - Have them fill out the [AB 540 form](https://sac.edu/sacab540) and backdate to the beginning of that term.
 - AB 540 only needs to be submitted once. If previously AB 540, broke enrollment, and submitted new application as Non-Resident, we can backdate their AB 540 status to the beginning of the new term.
+- According to the California Community Colleges Chancellor’s Office (California Community Colleges Chancellor’s Office [CCCCO], n.d.), if a student provides late documentation for the AB 540 tuition exemption, "the exemption should be applied retroactively."
 
 ### AB 540 — Switching to CA Resident
 - If US Citizen: only need naturalization paperwork (for continuing students) and a new application.
