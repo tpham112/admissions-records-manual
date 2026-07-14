@@ -320,8 +320,16 @@ STPE → correct semester → Overload Petition Status → `NONRE` Non-Resident 
 ---
 
 ### Two Years Care and Control Proof for Guardian Required
-- Can change residency back and make notes in ASPR (per Pilar), as long as everything else checks out.
-- Make sure the student is a US Citizen.
+- Student must provide documentation such as
+    - Ward of the Court letters
+    - Proof of Dependency cards
+- From [Residency Overview p.25](https://www.cccco.edu/-/media/CCCCO-Website/docs/general/2025residencyoverviewdocument42125finala11y.pdf?la=en&hash=8A1227B6F9DB6D13138B0AF0E3E5EA4EF198232D)
+    - "...districts will need to rely on
+actual evidence and not a self-certification that the student is or was a dependent or ward
+of the state through California's child welfare system (e.g., standardized documentation
+currently given to foster youth by county welfare departments as evidence of this
+transition for financial aid or other purposes, including “Ward of the Court” letters or
+“Proof of Dependency” cards)."
 
 ---
 
