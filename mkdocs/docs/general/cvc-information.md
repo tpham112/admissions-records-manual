@@ -71,6 +71,12 @@ If a CVC student is still interested in registering for a course that has alread
 
 ---
 
+## Can CVC Students Be Added Manually After Dropping By Accident? (Before Census)
+
+**Yes.** Email the instructor of the course and ask them if they would like to grant Add Authorization to the student. If the instructor grants Add Authorization, send the student an Add Card (PDF) and have them fill out and send back. Register the student and notify [dmiranda@cvc.edu](mailto:dmiranda@cvc.edu). Make comments in Colleague to indicate the student was added manually after dropping by accident.
+
+---
+
 ## How to Help a CVC Student Who Can't Access an Assignment Reserved for SAC Students
 
 Send the student the following information (you must log in to Canvas and copy/paste the content to the student):
