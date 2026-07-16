@@ -102,6 +102,16 @@ Production Sites:
 
 ---
 
+## Clearing Voicemail Inbox
+
+1. Press **Messages** (cassette icon) on the phone.
+2. Press *****.
+3. Enter `48555` and press **#**.
+4. Press **1** to listen to messages.
+5. Press **7** to delete messages.
+
+---
+
 ## Cross-Listed Courses Where Students Are Going Over The Cap
 
 - Check **SXRF**
