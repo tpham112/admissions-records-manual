@@ -10,6 +10,10 @@ This section covers foundational reference information for all A&R staff.
 | [CCCCO Residency Overview](https://www.cccco.edu/-/media/CCCCO-Website/docs/general/2025residencyoverviewdocument42125finala11y.pdf?la=en&hash=8A1227B6F9DB6D13138B0AF0E3E5EA4EF198232D) | Outlines criteria for establishing California residency for tuition purposes, including physical presence and objective manifestations of intent. |
 | [Title 5 Regulations](https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=I5EDC84B04C6911EC93A8000D3A7C4BC3&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)) | 	The primary legal framework (Division 6) governing the California Community Colleges system, covering students, employees, and curriculum. |
 
+## CCCApply Verification Support
+
+[CCCApply Required ID Verification Toolkit](../documents/Required%20ID%20Verification%20Toolkit%20_%20Staff%20Talking%20Points%20_%20Doc%206%20.pdf)
+
 ## College Codes
 
 | Field | Value |
