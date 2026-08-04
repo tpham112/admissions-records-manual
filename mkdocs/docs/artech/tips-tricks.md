@@ -38,6 +38,11 @@ Use Excel or a script to extract file names from a directory and create a .csv l
 
 ## Highlighting Matches Between 2 Columns (A and B)
 
+- Highlight the column that you want to check has matches in the other column 
+- =COUNTIF(COLUMN TO CHECK AGAINST, HIGHLIGHTED COLUMN THAT YOU WANT TO HIGHLIGHT MATCHES)>0 
+
+    `=COUNTIF(B:B, A2)>0`
+
 Use conditional formatting with a MATCH formula:
 ```
 =ISNUMBER(MATCH(A1,$B$1:$B$100,0))
