@@ -320,10 +320,10 @@ STPE → correct semester → Overload Petition Status → `NONRE` Non-Resident 
 ---
 
 ### Two Years Care and Control Proof Flag
-#### If the student has no other residency flags
+**If the student has no other residency flags**
 - Update residency status back to R
 
-## If the student has other residency flags
+**If the student has other residency flags**
 
 !!! note
     "Two Years Care and Control Proof flagged students are fostered youth or wards of the court. They are **not** required to provide 2 proofs of residency. Instead, they can provide documentation showing they were under the care and control of a CA-resident adult for at least 2 years prior to the term start date."
