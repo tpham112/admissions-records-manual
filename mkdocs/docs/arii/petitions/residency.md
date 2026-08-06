@@ -321,6 +321,7 @@ STPE → correct semester → Overload Petition Status → `NONRE` Non-Resident 
 
 ### Two Years Care and Control Proof Flag
 **If the student has no other residency flags**
+
 - Update residency status back to R
 
 **If the student has other residency flags**
