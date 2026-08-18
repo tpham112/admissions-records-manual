@@ -73,6 +73,7 @@ A student took a course three times with substandard grades, then retook it a fo
 ### Requirements
 
 - RWO's are processed at the student's home location.
+    - SAC at SAC and SCC at SCC
 - For units completed, use **Completed units** — `P` grades count.
 - **GPA calculation** is completed by ARII before processing:
     - Start counting after the last requested substandard grade's term.
