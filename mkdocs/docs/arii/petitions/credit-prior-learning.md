@@ -194,6 +194,11 @@ Students must have **two years of the same foreign language** with a grade of **
     - Navigate to **Colleague → TSUM**.
     - Enter the Student ID number.
     - Click into an empty Admissions Test field.
+    - Type in `mil-svc` and press **Enter**.
+
+        ![Enter mil-svc](../../images/mil-svc-1.png)
+
+    - Click **Save**, **Update**, and **Ok**.
 
 ## Credit By Exam
 
