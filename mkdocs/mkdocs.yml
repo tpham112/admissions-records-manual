@@ -75,7 +75,6 @@ nav:
       - Prerequisite Challenge: ari/petitions/prerequisite-challenge.md
   - ARII Procedures:
     - Overview: arii/index.md
-    - AP Scores: arii/ap-scores.md
     - Applications: arii/applications.md
     - Dual Enrollment:
       - High School Dual Enrollment: arii/dual-enrollment/dual-enrollment.md
@@ -84,7 +83,6 @@ nav:
       - SCC Special Admit: arii/dual-enrollment/scc-special-admit.md
     - Duplicate ID Merge: arii/duplicate-id-merge.md
     - Fraud: arii/fraud.md
-    - High School Language Proficiency: arii/hs-language-proficiency.md
     - Transcripts:
       - Process Parchment Orders: arii/transcripts/parchment-orders.md
       - Download Incoming (Parchment): arii/transcripts/download-parchment.md

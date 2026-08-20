@@ -6,12 +6,10 @@ This section covers procedures handled by ARII staff, including applications, tr
 
 | Procedure | Description |
 |-----------|-------------|
-| [AP Scores](ap-scores.md) | Processing AP exam scores into Colleague |
 | [Applications](applications.md) | Paper application processing and fraud |
 | **Dual Enrollment** | See Dual Enrollment section below |
 | [Duplicate ID Merge](duplicate-id-merge.md) | Requesting duplicate ID merges |
 | [Fraud](fraud.md) | Handling fraudulent applications |
-| [High School Language Proficiency](hs-language-proficiency.md) | Language proficiency processing |
 | [Home-School](home-school.md) | Home-school student enrollment |
 | [Open Section Enrollment](open-section-enrollment.md) | Open section enrollment procedures |
 | [SCC Special Admit](scc-special-admit.md) | Processing SCC Special Admit Forms |
