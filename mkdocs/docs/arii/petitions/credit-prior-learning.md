@@ -130,7 +130,7 @@ Students must have **two years of the same foreign language** with a grade of **
 
 ### Processing Steps
 
-1. Update Student Record
+1. Update Degree Audit
     - Navigate to **Colleague → EXTS**.
     - Enter the Student ID number.
     - Select the student's high school by double-clicking the school.
@@ -150,7 +150,36 @@ Students must have **two years of the same foreign language** with a grade of **
         | Title | Type in `Language Proficiency` |
         | Credits | Type in `0.00` |
 
-        ![F](../../images/lang-prof-3.png)
+        ![Fill in the fields](../../images/lang-prof-3.png)
+
+    - Click **Save** and **Update**.
+    - Click **Cancel**.
+    - Detail into **Equiv**.
+
+        ![Detail into Equiv](../../images/lang-prof-4.png)
+
+    - Detail into **Course**.
+
+        ![Detail into Course](../../images/lang-prof-5.png)
+
+    - Type in `LNG PROF` in the Course LookUp field and double-click on `Internal ID 14116`.
+
+        ![Select Internal ID 14116](../../images/lang-prof-6.png)
+
+    - Fill in the following fields.
+
+        | Field | Entry |
+        |-|-|
+        | Gr | Type in `P` |
+        | Status | Type in `TR` |
+        | Credit Type | Type in `LP` |
+
+        ![Fill in the following fields](../../images/lang-prof-7.png)
+
+    - Click on **Notes/Comments**.
+    - Type in `6` in **IGETC**.
+
+        ![Type in 6 in IGETC](../../images/lang-prof-8.png)
 
     - Click **Save All**.
 
@@ -158,6 +187,13 @@ Students must have **two years of the same foreign language** with a grade of **
         After processing, verify in **TRAN** that the language proficiency appears correctly on the transcript.
 
 ## Military Service
+
+### Processing Steps
+
+1. Enter Military Service Credit
+    - Navigate to **Colleague → TSUM**.
+    - Enter the Student ID number.
+    - Click into an empty Admissions Test field.
 
 ## Credit By Exam
 
