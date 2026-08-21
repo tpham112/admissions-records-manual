@@ -17,20 +17,23 @@
         ![Enter cbe](../../images/cbe-1.png)
 
     - For Date Taken, enter the date of submission.
+
+        ![Enter date of submission](../../images/cbe-2.png)
+
     - Click **Save**, **Update**, and **Ok**.
 
 2. Enter Equivalency
     - Detail into **Equiv**.
 
-        ![Enter course code](../../images/cbe-2.png)
+        ![Enter course code](../../images/cbe-3.png)
 
     - Detail into **Course**.
 
-        ![Enter course code](../../images/cbe-3.png)
+        ![Enter course code](../../images/cbe-4.png)
 
     - Type in the course code in the Course LookUp field and double-click on the course.
 
-        ![Enter course code](../../images/cbe-4.png)
+        ![Enter course code](../../images/cbe-5.png)
 
     - Fill in the following fields.
 
@@ -40,18 +43,21 @@
         | Gr | Type in `P` or letter grade |
         | Status | Type in `TR` |
         | Credit Type | For College CBE Passes, type in `CBE`; For College CBE Letter Grades, type in `CBEX`; For High School CBE Passes, type in `HSCBE`; For High School CBE Letter Grades, type in `HSCBEX` |
-        | Term | Type in the year and semester of the exam (e.g., `2023SP`) |
+        | Term | Type in the year and semester of the exam (e.g., `2026FA`) |
 
-        ![Fill in the following fields](../../images/cbe-5.png)
+        ![Fill in the following fields](../../images/cbe-7.png)
 
     - Click on **Notes/Comments**.
+
+        ![Click on Notes/Comments](../../images/cbe-8.png)
+
     - Fill in the following fields.
 
         | Field | Entry |
         |-|-|
         | Notes/Dates | Type in `PLCBE` |
 
-        ![Fill in the following fields](../../images/cbe-6.png)
+        ![Fill in the following fields](../../images/cbe-9.png)
 
     - Click **Save All**.
 
