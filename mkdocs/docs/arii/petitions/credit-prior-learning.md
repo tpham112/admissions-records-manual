@@ -2,6 +2,60 @@
 
 ## MAP
 
+---
+
+## Credit By Exam
+
+### Processing Steps
+
+1. Enter Credit By Exam
+    - Navigate to **Colleague → TSUM**.
+    - Enter the Student ID number.
+    - Click into an empty Admissions Test field.
+    - Type in `cbe` and press **Enter**.
+
+        ![Enter cbe](../../images/cbe-1.png)
+
+    - For Date Taken, enter the date of submission.
+    - Click **Save**, **Update**, and **Ok**.
+2. Enter Equivalency
+    - Detail into **Equiv**.
+
+        ![Enter course code](../../images/cbe-2.png)
+
+    - Detail into **Course**.
+
+        ![Enter course code](../../images/cbe-3.png)
+
+    - Type in the course code in the Course LookUp field and double-click on the course.
+
+        ![Enter course code](../../images/cbe-4.png)
+
+    - Fill in the following fields.
+
+        | Field | Entry |
+        |-|-|
+        | Course Level | Type in `A`, `B`, `C`, `D`, or `E` |
+        | Gr | Type in `P` or letter grade |
+        | Status | Type in `TR` |
+        | Credit Type | For College CBE Passes, type in `CBE`; For College CBE Letter Grades, type in `CBEX`; For High School CBE Passes, type in `HSCBE`; For High School CBE Letter Grades, type in `HSCBEX` |
+        | Term | Type in the year and semester of the exam (e.g., `2023SP`) |
+
+        ![Fill in the following fields](../../images/cbe-5.png)
+
+    - Click on **Notes/Comments**.
+    - Fill in the following fields.
+
+        | Field | Entry |
+        |-|-|
+        | Notes/Dates | Type in `PLCBE` |
+
+        ![Fill in the following fields](../../images/cbe-6.png)
+
+    - Click **Save All**.
+
+---
+
 ## External Exams
 
 ### Advanced Placement (AP) Scores
@@ -257,8 +311,6 @@ Students must have **two years of the same foreign language** with a grade of **
     - Click **Save All**.
 
 ---
-
-## Credit By Exam
 
 ## Prior Experience
 
