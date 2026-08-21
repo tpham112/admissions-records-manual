@@ -205,6 +205,12 @@ Per Ed Code §76140: a community college may classify a nonresident student **hi
 
 ---
 
+### Eligible with documentation: high school graduate or equivalent but under 18
+- Student must provide 2 proofs of CA residency from parent/guardian.
+    - One proof must be a CA 540 showing the student as a dependent.
+
+---
+
 ### Employment Authorization
 - Check [USCIS EAD Codes](https://www.uscis.gov/archive/automatic-employment-authorization-document-ead-extension) for code reference.
 - Check [CA Residency Overview 2025 (CCCCO)](https://www.cccco.edu/-/media/CCCCO-Website/docs/general/2025residencyoverviewdocument42125finala11y.pdf?la=en&hash=8A1227B6F9DB6D13138B0AF0E3E5EA4EF198232D) page 11 for accepted statuses.
