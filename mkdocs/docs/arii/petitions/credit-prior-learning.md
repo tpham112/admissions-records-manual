@@ -18,6 +18,7 @@
 
     - For Date Taken, enter the date of submission.
     - Click **Save**, **Update**, and **Ok**.
+
 2. Enter Equivalency
     - Detail into **Equiv**.
 
@@ -313,6 +314,50 @@ Students must have **two years of the same foreign language** with a grade of **
 ---
 
 ## Prior Experience
+
+### Processing Steps
+
+1. Enter Prior Experience
+    - Navigate to **Colleague → TSUM**.
+    - Enter the Student ID number.
+    - Click into an empty Admissions Test field.
+    - Type in `cbe` and press **Enter**.
+
+        ![Enter cbe](../../images/cbe-1.png)
+
+    - For Date Taken, enter the date of submission.
+
+        ![Enter date of submission](../../images/cbe-2.png)
+
+    - Click **Save**, **Update**, and **Ok**.
+    
+2. Enter Equivalency
+    - Detail into **Equiv**.
+
+        ![Enter course code](../../images/cbe-3.png)
+
+    - Detail into **Course**.
+
+        ![Enter course code](../../images/cbe-4.png)
+
+    - Type in the course subject and number in the Course LookUp field and double-click on the **active SAC** course.
+
+        ![Enter course code](../../images/cbe-5.png)
+
+    - Fill in the following fields.
+
+        | Field | Entry |
+        |-|-|
+        | Course Level | Type in `PTCLY` |
+        | Gr | Type in `P` |
+        | Status | Type in `TR` |
+        | Credit Type | For Industry Experience, type in `INDX`; For Portfolio Work, type in `PX`; For Joint Services Transcripts, type in `JSTX` |
+
+        ![Fill in the following fields](../../images/cbe-6.png)
+
+    - Click **Save All**.
+
+---
 
 ## TSUM Steps
 
