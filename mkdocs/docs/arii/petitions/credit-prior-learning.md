@@ -190,7 +190,7 @@ Students must have **two years of the same foreign language** with a grade of **
 
 ### Processing Steps
 
-1. Enter Military Service Credit
+1. Enter Military Service Credit for Health Education
     - Navigate to **Colleague → TSUM**.
     - Enter the Student ID number.
     - Click into an empty Admissions Test field.
@@ -199,6 +199,64 @@ Students must have **two years of the same foreign language** with a grade of **
         ![Enter mil-svc](../../images/mil-svc-1.png)
 
     - Click **Save**, **Update**, and **Ok**.
+
+2. Enter Equivalency
+    - Detail into **Equiv**.
+
+        ![Enter course code](../../images/mil-svc-2.png)
+
+    - Detail into **Course**.
+
+        ![Enter course code](../../images/mil-svc-3.png)
+
+    - Type in `mil-svc1` in the Course LookUp field and double-click on the course.
+
+        ![Enter course code](../../images/mil-svc-4.png)
+
+    - Fill in the following fields.
+
+        | Field | Entry |
+        |-|-|
+        | Course Level | Type in `E` |
+        | Credit | Type in `3.00` |
+        | Gr | Type in `P` |
+        | Status | Type in `TR` |
+        | Credit Type | Type in `MS` |
+
+        ![Fill in the following fields](../../images/mil-svc-5.png)
+
+    - Click **Save** and **Update**.
+
+3. Enter Military Service Credit for Exercise Science
+    - Click into an empty Admissions Test field.
+    - Type in `mil-svc` and press **Enter**.
+    - Click **Save**, **Update**, and **Ok**.
+
+4. Enter Equivalency
+    - Detail into **Equiv**.
+    - Detail into **Course**.
+
+        ![Enter course code](../../images/mil-svc-3.png)
+
+    - Type in `mil-svc2` in the Course LookUp field and double-click on the course.
+
+        ![Enter course code](../../images/mil-svc-6.png)
+
+    - Fill in the following fields.
+
+        | Field | Entry |
+        |-|-|
+        | Course Level | Type in `E` |
+        | Credit | Type in `1.00` |
+        | Gr | Type in `P` |
+        | Status | Type in `TR` |
+        | Credit Type | Type in `MS` |
+
+        ![Fill in the following fields](../../images/mil-svc-7.png)
+
+    - Click **Save All**.
+
+---
 
 ## Credit By Exam
 
