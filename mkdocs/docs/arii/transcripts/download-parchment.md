@@ -16,4 +16,4 @@
     Lastname, Firstname_NO ID_School Name
     ```
 
-4. Move the downloaded transcripts to the **Parchment folder** in the M Drive *(see [Move to M Drive](m-drive.md))*.
+4. Save the downloaded transcripts to the **QF-Import to Laserfiche** inside of **SAC - eTrans Download** in the **M Drive**.

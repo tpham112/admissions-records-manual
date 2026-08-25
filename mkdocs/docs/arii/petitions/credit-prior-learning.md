@@ -16,9 +16,9 @@
 
         ![Enter cbe](../../images/cbe-1.png)
 
-    - For Date Taken, enter the date of submission.
+    - For Date Taken, enter the Counselor Verified date.
 
-        ![Enter date of submission](../../images/cbe-2.png)
+        ![Enter Counselor Verified date](../../images/cbe-2.png)
 
     - Click **Save**, **Update**, and **Ok**.
 
@@ -286,18 +286,10 @@ Students must have **two years of the same foreign language** with a grade of **
 
         ![Fill in the following fields](../../images/mil-svc-5.png)
 
-    - Click **Save** and **Update**.
+3. Enter Equivalency for Exercise Science
+    - Click on Next Page.
 
-3. Enter Military Service Credit for Exercise Science
-    - Click into an empty Admissions Test field.
-    - Type in `mil-svc` and press **Enter**.
-    - Click **Save**, **Update**, and **Ok**.
-
-4. Enter Equivalency
-    - Detail into **Equiv**.
-    - Detail into **Course**.
-
-        ![Enter course code](../../images/mil-svc-3.png)
+        ![Click on Next Page](../../images/mil-svc-8.png)
 
     - Type in `mil-svc2` in the Course LookUp field and double-click on the course.
 
@@ -331,9 +323,9 @@ Students must have **two years of the same foreign language** with a grade of **
 
         ![Enter cbe](../../images/cbe-1.png)
 
-    - For Date Taken, enter the date of submission.
+    - For Date Taken, enter the Counselor Verified date.
 
-        ![Enter date of submission](../../images/cbe-2.png)
+        ![Enter Counselor Verified date](../../images/cbe-2.png)
 
     - Click **Save**, **Update**, and **Ok**.
     
