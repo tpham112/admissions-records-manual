@@ -59,6 +59,7 @@
 
         ![Fill in the following fields](../../images/cbe-9.png)
 
+    - If there are multiple CBE entries, add additional courses by clicking Next Page at the top of the screen and repeat for each course.
     - Click **Save All**.
 
 ---
@@ -353,4 +354,5 @@ Students must have **two years of the same foreign language** with a grade of **
 
         ![Fill in the following fields](../../images/cbe-6.png)
 
+    - If there are multiple CBE entries, add additional courses by clicking Next Page at the top of the screen and repeat for each course.
     - Click **Save All**.
