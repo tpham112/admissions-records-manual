@@ -8,6 +8,7 @@ AR Tech handles system-level processes, batch operations, and complex student re
 |------|-------------|
 | [Daily Tasks](daily-tasks.md) | Daily and quarterly task checklists |
 | [Academic Standing](academic-standing.md) | OUT2, probation codes |
+| [Attendance Web](attendance-web.md) | Station Config |
 | [Billing Errors](billing-errors.md) | CVC rebills, ARTI, ARBC |
 | [Class Transfer](class-transfer.md) | Before/after census, waitlist transfer, batch transfer |
 | [CORM](corm.md) | Campus Organization Management, flags, bulk assignment |
