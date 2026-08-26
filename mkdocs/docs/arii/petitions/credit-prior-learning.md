@@ -2,6 +2,42 @@
 
 ## MAP
 
+1. Navigate to the [MAP](https://mappingarticulatedpathways.azurewebsites.net/modules/security/Login.aspx) webpage.
+
+2. Log in with your credentials.
+
+    ![MAP Login Page](../../images/map-1.png)
+
+3. Click **Student/CPL Intake** button.
+
+    ![Student/CPL Intake Button](../../images/map-2.png)
+
+4. Filter for Verified statuses in the CPL Docs, EdPlan, Analysis, Counselor, and Student columns.
+
+    ![Filter for Verified statuses](../../images/map-3.png)
+
+5. Click on a CPL record to view its details.
+
+    ![CPL Record Details](../../images/map-4.png)
+
+6. Take note of CPL Type and Learning Mode
+
+    ![CPL Type and Learning Mode](../../images/map-5.png)
+
+7. Take note of the Counselor Verified date and the requested courses.
+
+    ![Counselor Verified date and requested courses](../../images/map-6.png)
+
+8. Follow the steps below for Colleague entry.
+
+9. Once Colleague entry is complete, navigate back to the Student/CPL Intake screen and click the checkmark in the Transcribed column for the record you just entered.
+
+    ![Click the checkmark in the Transcribed column](../../images/map-7.png)
+
+10. Go back to the CPL Summary page and click Print to send to Laserfiche with Laserfiche Snapshot.
+
+    ![Print to Laserfiche](../../images/map-8.png)
+
 ---
 
 ## Credit By Exam
