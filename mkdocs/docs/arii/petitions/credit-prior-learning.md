@@ -386,7 +386,7 @@ Students must have **two years of the same foreign language** with a grade of **
         | Course Level | Type in `PTCLY` |
         | Gr | Type in `P` |
         | Status | Type in `TR` |
-        | Credit Type | For Industry Experience, type in `INDX`; For Portfolio Work, type in `PX`; For Joint Services Transcripts, type in `JSTX` |
+        | Credit Type | For Industry Experience, type in `INDX`<br>For Portfolio Work, type in `PX`<br>For Joint Services Transcripts, type in `JSTX` |
 
         ![Fill in the following fields](../../images/cbe-6.png)
 
