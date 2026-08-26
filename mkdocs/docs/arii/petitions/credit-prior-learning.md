@@ -78,7 +78,7 @@
         | Course Level | Type in `A`, `B`, `C`, `D`, or `E` |
         | Gr | Type in `P` or letter grade |
         | Status | Type in `TR` |
-        | Credit Type | For College CBE Passes, type in `CBE`; For College CBE Letter Grades, type in `CBEX`; For High School CBE Passes, type in `HSCBE`; For High School CBE Letter Grades, type in `HSCBEX` |
+        | Credit Type | For College CBE Passes, type in `CBE`<br>For College CBE Letter Grades, type in `CBEX`<br>For High School CBE Passes, type in `HSCBE`<br>For High School CBE Letter Grades, type in `HSCBEX` |
         | Term | Type in the year and semester of the exam (e.g., `2026FA`) |
 
         ![Fill in the following fields](../../images/cbe-7.png)
