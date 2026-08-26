@@ -117,6 +117,7 @@ nav:
   - AR Tech Procedures:
     - Overview: artech/index.md
     - Daily Tasks: artech/daily-tasks.md
+    - Attendance Web: artech/attendance-web.md
     - Quarterly Tasks: artech/quarterly-tasks.md
     - Academic Standing: artech/academic-standing.md
     - Billing Errors: artech/billing-errors.md
