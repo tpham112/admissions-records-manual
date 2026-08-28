@@ -43,6 +43,8 @@ Use Excel or a script to extract file names from a directory and create a .csv l
 
     `=COUNTIF(B:B, A2)>0`
 
+    ![Highlighting Matches Instructions](../images/excel-tricks-1.png)
+
 Use conditional formatting with a MATCH formula:
 ```
 =ISNUMBER(MATCH(A1,$B$1:$B$100,0))
