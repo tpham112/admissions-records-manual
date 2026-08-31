@@ -4,7 +4,7 @@
 
 ### Getting Started
 
-1. Log into your **Parchment Exchange** account at [exchange.parchment.com](https://exchange.parchment.com/u/auth/login)
+1. Log into your [**Parchment Exchange** account](https://exchange.parchment.com/u/auth/login).
 
 2. Click **Resume Printing**.
 
@@ -80,9 +80,19 @@
 
 5. Select today's date for **Request Dates** (start with the right field first).
 
+    ![STRQ Screen](../../images/parchment-orders-1.png)
+
 6. Click **Save All** 2x.
 
-7. Update settings.
+7. Fill in the following fields.
+
+    | Field | Details |
+    |-|-|
+    | Output Device | Enter `P` |
+    | Printer | Enter `FormFusion` |
+    | Other Options Line 1 | Enter `'prefix=COLL FF_CC OFFICIAL_AMBER SS101000G'`
+
+    ![Fill in the following fields](../../images/parchment-orders-2.png)
 
 8. Click **Save All**.
 
