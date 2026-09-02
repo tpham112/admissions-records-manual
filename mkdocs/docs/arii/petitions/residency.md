@@ -355,8 +355,8 @@ transition for financial aid or other purposes, including â€œWard of the Courtâ€
 ---
 
 ### Unhoused Youth
-- Homeless youth under 25 will be flagged as non-residents. Ask for usual documentation; note "student is homeless youth under 25" in ASPR. Leave permanent address blank.
-- Homeless students: ask for CA ID or license + one form of documentation.
+- Unhoused youth under 25 will be flagged as non-residents. Ask for usual documentation; note "student is unhoused youth under 25" in ASPR. Leave permanent address blank.
+- Unhoused students: ask for CA ID or license + one form of documentation.
 - See if they qualify for AB 540 as well.
 - Refer to **Robert Manson**: (714) 564-6247.
 
