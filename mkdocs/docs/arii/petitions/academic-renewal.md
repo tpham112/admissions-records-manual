@@ -68,7 +68,10 @@ A student took a course three times with substandard grades, then retook it a fo
 
 ## Petition for Academic Renewal WITHOUT Course Repetition (RWO)
 
+### Reference
 *Ed Code Section 55046*
+
+- [Regulatory Revisions to Academic Renewal 9.8.26 (PDF)](../../documents/ess-26-59-regulatory-revisions-to-academic-renewal-a11y.pdf)
 
 ### Requirements
 
