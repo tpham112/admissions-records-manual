@@ -124,6 +124,11 @@
 
 ## GE Evaluation
 
+!!! warning "Before you start the GE evaluation!"
+    - **Bachelor’s Degree:** If a student has earned a bachelor’s degree, or CSU GE /IGETC/CALGETC certification the local GE requirement will be waived at SAC.
+    - **Associate degree:** If a student earned an associate degree from a California Community College within the last 10 years, we can also waive the local GE requirement. Our team will not complete course-by-course equivalency unless requested by a counselor.   
+        - **If a degree was last earned in Spring 2017 we can waive the GE as long as they earn their other local degree by Spring 2027. Otherwise, they will need a course by course.**    
+
 ### Process Summary
 
 1. Check the [Evaluation Flowchart](https://rsccd.sharepoint.com/sites/Admissions2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FAdmissions2%2FShared%20Documents%2FUpfront%20Transcript%20Evaluation%2FEvaluation%20Resources%2FEvaluation%20Flowchart%201%2Epdf).
