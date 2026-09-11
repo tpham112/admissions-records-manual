@@ -67,7 +67,7 @@ If a CVC student is still interested in registering for a course that has alread
 
 ## Can CVC Students Be Reinstated After Dropping/Being Dropped?
 
-**Yes.** Email the instructor of the course and ask them if they would be willing to reinstate the student. Attach an Instructor Change Form for them to fill out their portion of the reinstatement. Have the student sign as well. Once all the signatures are collected, process the reinstatement.
+**Yes.** Email the instructor of the course and ask them if they would be willing to reinstate the student. Attach an Instructor Change Form for them to fill out their portion of the reinstatement. Have the student sign as well. Once all the signatures are collected, process the reinstatement. If it is before census, have the student request Add Authorization and submit a Class Add Petition. Once submitted, register the student and let dimiranda@cvc.edu know to update the student's enrollment status on CVC.
 
 ---
 
