@@ -259,6 +259,7 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
     - If transferring to a new instructor, the **new instructor must initiate** the class transfer.
     - A student can transfer from a short-term class to a full-term class (per Hung).
     - Can move a student from an honors class to a non-honors class. **Cannot** move from non-honors to honors.
+    - Can be different modalities e.g., online to in-person, hybrid to online.
 
 ### Before Census
 
