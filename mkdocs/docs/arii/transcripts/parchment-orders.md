@@ -8,34 +8,59 @@
 
 2. Click **Resume Printing**.
 
+    ![Click Resume Printing](../../images/parchment-orders-3.png)
+
 ### Open Orders
 
 1. **Open Orders** tab should be opened by default. 
 
 2. Hover mouse over each student and click **More**.
 
-3. Under **Order Information**, check "Are you sending this transcript to a UC campus?"
+    ![Hover over each student and click More](../../images/parchment-orders-4.png)
 
-    - If yes, navigate to **TRAN** on Colleague and run their transcript. Check and see if there is an IGETC Certification posted.
+3. Check under **Order Information**.
+
+    - If Order Information states "Yes, I am sending to a UC for transfer purposes."
+
+        ![Order Information states "Yes, I am sending to a UC for transfer purposes."](../../images/parchment-orders-5.png)
+        
+        - Navigate to **TRAN** on Colleague and run their transcript. Check and see if there is an IGETC Certification posted towards the end of the transcript.
         - If there is, check on Laserfiche for certification.
         - If certification is missing, reach out to Graduation Office through Teams for the certification.
         - Once certification is available, download from Laserfiche.
         - Click on **Add Attachments** button for the desired student.
+
+            ![Click on Add Attachments](../../images/parchment-orders-6.png)
+
         - Click on **Add Another File**.
+
+            ![Click on Add Another File](../../images/parchment-orders-7.png)
+
         - Drag and drop the certification into the **Upload New File** area.
+
+            ![Drag and drop the certification into the Upload New File area](../../images/parchment-orders-8.png)
+
         - Click **Save & Close**.
         - Navigate back to **Open Orders** main page and click **Process Order** for student.
-    - If no, then simply click **Process Order** for student.
+
+            ![Click Process Order](../../images/parchment-orders-9.png)
+
+    - If Order Information states "No, I am sending elsewhere or ordering for personal use.", then simply click **Process Order** for student.
 
 ### Problems
 
 1. Click on **Problems** tab.
+
+    ![Click on Problems tab](../../images/parchment-orders-10.png)
 
 2. Click on each student name to view details.
 
 3. Open **NAE** on Colleague and ensure **Name When Enrolled** matches **NAE** record.
 
     - If name does not match, click on **Edit** button next to **Name**.
+
+        ![Click on Edit button next to Name](../../images/parchment-orders-11.png)
+
         - Update **Name When Enrolled** to match **NAE**.
         - Click **Save Changes**.
         - Exit student details by clicking **X** button in upper-right hand corner.
@@ -50,6 +75,8 @@
 ### Overnight Orders
 
 1. Go to the **History** tab.
+
+    ![History tab](../../images/parchment-orders-12.png)
 
 2. Click on **Down Arrow** next to Delivery ID.
 

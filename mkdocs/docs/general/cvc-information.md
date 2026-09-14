@@ -40,7 +40,7 @@ If a CVC student is still interested in registering for a course that has alread
 
 ## Can CVC Students Submit EW Requests?
 
-**Yes.** They will need a PDF request since they will not have access to Self-Service for Dynamic Forms.
+**Yes.** Direct student to [EW Request Form](https://sac.edu/ew). Student will need to know their SAC login information to log into the form. If they do not know this information, direct them to the [Self-Service Password Reset Page](https://accountmanager.rsccd.edu/LDAPAccountManager/resetpassword) to retrieve their login credentials.
 
 ---
 
