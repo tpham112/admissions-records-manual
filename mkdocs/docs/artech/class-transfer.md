@@ -6,7 +6,8 @@ Applies to both individual transfers and division-requested bulk transfers for c
     Division Dean approval is always required for rollovers (roster/waitlist to roster transfers).
 
 !!! warning
-    Must be **same length to same length** (e.g., 8-week to 8-week; 16-week to 16-week).
+    - Must be **same length to same length** (e.g., 8-week to 8-week; 16-week to 16-week) for batch transfers.
+    - 8-week to 16-week or 16-week to 8-week transfers are allowed.
 
 ## Class Transfer Before Census
 
