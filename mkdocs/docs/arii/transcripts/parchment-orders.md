@@ -80,15 +80,23 @@
 
 2. Click on **Down Arrow** next to Delivery ID.
 
-3. Update Date Range to yesterday's date to today's date.
+    ![Click on Down Arrow next to Delivery ID](../../images/parchment-orders-13.png)
 
-4. Update Delivery Methods to Overnight.
+3. Update **Date Range** to **yesterday's date to today's date**.
 
-5. Click Search.
+    ![Update Date Range](../../images/parchment-orders-14.png)
+
+4. Update **Delivery Methods** to `Overnight`.
+
+    ![Update Delivery Methods to Overnight](../../images/parchment-orders-15.png)
+
+5. Click **Search**.
+
+    ![Search Results](../../images/parchment-orders-16.png)
 
 6. Click on each student name.
 
-7. Click Shipping Label to print out.
+7. Click **Shipping Label** to print out.
 
 8. Put aside shipping labels for packing step.
 
@@ -98,6 +106,8 @@
     Make sure there is transcript paper in the printer before next steps!!!
 
 1. Navigate back to **To Do** page.
+
+    ![To Do page](../../images/parchment-orders-17.png)
 
 2. Click on **In Process** tab.
 
