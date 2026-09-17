@@ -57,11 +57,23 @@
 
 3. Open **NAE** on Colleague and ensure **Name When Enrolled** matches **NAE** record.
 
+    - If a Social Security Number is provided
+        - Ensure that the Social Security Number matches the one on record.
+        - If the Social Security Number does not match, cancel the order.
+            - For Cancel Reason, select "Learner Provided Incorrect Request Information."
+            - Enter comments that the SSN does not match what we have on file.
+            - Click **Yes, Cancel This Order**.
+
+    - If date of birth is not even close to the one on record, cancel the order. *If it is one number off, and all other information matches, go ahead and process.*
+        - For Cancel Reason, select "Learner Provided Incorrect Request Information."
+        - Enter comments that the date of birth does not match what we have on file.
+        - Click **Yes, Cancel This Order**.
+
     - If name does not match, click on **Edit** button next to **Name**.
 
         ![Click on Edit button next to Name](../../images/parchment-orders-11.png)
 
-        - Update **Name When Enrolled** to match **NAE**.
+        - Update **Name When Enrolled** and **Current Name** to match **NAE**.
         - Click **Save Changes**.
         - Exit student details by clicking **X** button in upper-right hand corner.
         - Click **Resolve**.
@@ -69,7 +81,7 @@
 
     - If we cannot find the student in our records, click **Cancel Order**.
         - Select Cancel Reason.
-        - Write comments.
+            - For Cancel Reason, select "Learner Record Cannot Be Located."
         - Click **Yes, Cancel This Order**.
 
 ### Overnight Orders
@@ -83,6 +95,8 @@
     ![Click on Down Arrow next to Delivery ID](../../images/parchment-orders-13.png)
 
 3. Update **Date Range** to **yesterday's date to today's date**.
+    - If the office has been closed for more than one day, update the **Date Range** to include the last day we were open.
+        - For example, if today is Monday and the office was closed on Friday, update the **Date Range** to include Friday as well.
 
     ![Update Date Range](../../images/parchment-orders-14.png)
 
@@ -95,6 +109,7 @@
     ![Search Results](../../images/parchment-orders-16.png)
 
 6. Click on each student name.
+    - If a student has multiple orders, make sure to click on each one to review and print the shipping label.
 
 7. Click **Shipping Label** to print out.
 
@@ -103,7 +118,7 @@
 ### Printing Mail Out Orders
 
 !!! danger "IMPORTANT!!!"
-    Make sure there is transcript paper in the printer before next steps!!!
+    Make sure there is transcript paper in Tray 2 and Tray 4 in the Transcripts Printer before next steps!!!
 
 1. Navigate back to **To Do** page.
 

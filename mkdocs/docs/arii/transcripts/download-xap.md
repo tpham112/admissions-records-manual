@@ -16,13 +16,18 @@
 6. **Name each file in this format:**
 
     ```
-    Lastname, Firstname_STUDENTID_School Name
+    Lastname, Firstname Middleinitial._STUDENTID_School Name
     ```
 
     If no Colleague ID is found:
 
     ```
-    Lastname, Firstname_NO ID_School Name
+    Lastname, Firstname Middleinitial._NO ID_School Name
     ```
+    
+    !!! note "Multi-College Transcripts"
+    - If the transcript file contains multiple colleges, save the file as the district.
+    - If the transcript has multiple colleges but only one is relevant, save the file using the relevant college's name.
+    - If the transcript only has one college, save the file using the individual college's name.
 
 7. Move the downloaded transcripts to the **XAP folder** in the M Drive *(see [Move to M Drive](m-drive.md))*.
