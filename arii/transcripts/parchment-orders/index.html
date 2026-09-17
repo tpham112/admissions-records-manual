@@ -3674,15 +3674,15 @@
 <p><strong>Open Orders</strong> tab should be opened by default. </p>
 </li>
 <li>
-<p>Hover mouse over each student and click <strong>More</strong>.</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/parchment-orders-4.png" data-desc-position="bottom"><img alt="Hover over each student and click More" src="../../../images/parchment-orders-4.png"></a></p>
+<p>Click on <strong>student name</strong> to enter Order Details.</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/parchment-orders-4.png" data-desc-position="bottom"><img alt="Click on student name to enter order details" src="../../../images/parchment-orders-4.png"></a></p>
 </li>
 <li>
-<p>Check under <strong>Order Information</strong>.</p>
+<p>In <strong>Order Details</strong>.</p>
 <ul>
 <li>
-<p>If Order Information states "Yes, I am sending to a UC for transfer purposes."</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/parchment-orders-5.png" data-desc-position="bottom"><img alt="Order Information states &quot;Yes, I am sending to a UC for transfer purposes.&quot;" src="../../../images/parchment-orders-5.png"></a></p>
+<p>If Order Details states "Yes, I am sending to a UC for transfer purposes." and student is actually sending to a UC.</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/parchment-orders-5.png" data-desc-position="bottom"><img alt="Order Details states &quot;Yes, I am sending to a UC for transfer purposes.&quot;" src="../../../images/parchment-orders-5.png"></a></p>
 <ul>
 <li>Navigate to <strong>TRAN</strong> on Colleague and run their transcript. Check and see if there is an IGETC Certification posted towards the end of the transcript.</li>
 <li>If there is, check on Laserfiche for certification.</li>
@@ -3701,7 +3701,8 @@
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/parchment-orders-8.png" data-desc-position="bottom"><img alt="Drag and drop the certification into the Upload New File area" src="../../../images/parchment-orders-8.png"></a></p>
 </li>
 <li>
-<p>Click <strong>Save &amp; Close</strong>.</p>
+<p>Click <strong>Back To To Do List</strong>.</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/parchment-orders-18.png" data-desc-position="bottom"><img alt="Click Back To To Do List" src="../../../images/parchment-orders-18.png"></a></p>
 </li>
 <li>
 <p>Navigate back to <strong>Open Orders</strong> main page and click <strong>Process Order</strong> for student.</p>
@@ -3710,8 +3711,9 @@
 </ul>
 </li>
 <li>
-<p>If Order Information states "No, I am sending elsewhere or ordering for personal use.", then simply click <strong>Process Order</strong> for student.</p>
+<p>If Order Details states "Yes, I am sending to a UC for transfer purposes." but student is not actually sending to a UC, then simply click <strong>Process Order</strong> for student.</p>
 </li>
+<li>If Order Details states "No, I am sending elsewhere or ordering for personal use.", then simply click <strong>Process Order</strong> for student.</li>
 </ul>
 </li>
 </ol>
@@ -3728,10 +3730,37 @@
 <p>Open <strong>NAE</strong> on Colleague and ensure <strong>Name When Enrolled</strong> matches <strong>NAE</strong> record.</p>
 <ul>
 <li>
-<p>If name does not match, click on <strong>Edit</strong> button next to <strong>Name</strong>.</p>
+<p><strong>If a Social Security Number is provided</strong></p>
+<ul>
+<li>Ensure that the Social Security Number matches the one on record.</li>
+<li>If the Social Security Number does not match, cancel the order.<ul>
+<li>For Cancel Reason, select "Learner Provided Incorrect Request Information."</li>
+<li>Enter comments that the SSN does not match what we have on file.</li>
+<li>Click <strong>Yes, Cancel This Order</strong>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>If date of birth is not even close to the one on record</strong> </p>
+<ul>
+<li>Cancel the order. <ul>
+<li><em>If it is one number off, and all other information matches, go ahead and process.</em></li>
+</ul>
+</li>
+<li>For Cancel Reason, select "Learner Provided Incorrect Request Information."</li>
+<li>Enter comments that the date of birth does not match what we have on file.</li>
+<li>Click <strong>Yes, Cancel This Order</strong>.</li>
+</ul>
+</li>
+<li>
+<p><strong>If name does not match</strong> </p>
+<ul>
+<li>Click on <strong>Edit</strong> button next to <strong>Name</strong>.</li>
+</ul>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/parchment-orders-11.png" data-desc-position="bottom"><img alt="Click on Edit button next to Name" src="../../../images/parchment-orders-11.png"></a></p>
 <ul>
-<li>Update <strong>Name When Enrolled</strong> to match <strong>NAE</strong>.</li>
+<li>Update <strong>Name When Enrolled</strong> and <strong>Current Name</strong> to match <strong>NAE</strong>.</li>
 <li>Click <strong>Save Changes</strong>.</li>
 <li>Exit student details by clicking <strong>X</strong> button in upper-right hand corner.</li>
 <li>Click <strong>Resolve</strong>.</li>
@@ -3739,10 +3768,13 @@
 </ul>
 </li>
 <li>
-<p>If we cannot find the student in our records, click <strong>Cancel Order</strong>.</p>
+<p><strong>If we cannot find the student in our records</strong></p>
 <ul>
-<li>Select Cancel Reason.</li>
-<li>Write comments.</li>
+<li>Click <strong>Cancel Order</strong>.</li>
+<li>Select Cancel Reason.<ul>
+<li>For Cancel Reason, select "Learner Record Cannot Be Located."</li>
+</ul>
+</li>
 <li>Click <strong>Yes, Cancel This Order</strong>.</li>
 </ul>
 </li>
@@ -3761,6 +3793,12 @@
 </li>
 <li>
 <p>Update <strong>Date Range</strong> to <strong>yesterday's date to today's date</strong>.</p>
+<ul>
+<li>If the office has been closed for more than one day, update the <strong>Date Range</strong> to include the last day we were open.<ul>
+<li>For example, if today is Monday and the office was closed on Friday, update the <strong>Date Range</strong> to include Friday as well.</li>
+</ul>
+</li>
+</ul>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../../../images/parchment-orders-14.png" data-desc-position="bottom"><img alt="Update Date Range" src="../../../images/parchment-orders-14.png"></a></p>
 </li>
 <li>
@@ -3773,6 +3811,9 @@
 </li>
 <li>
 <p>Click on each student name.</p>
+<ul>
+<li>If a student has multiple orders, make sure to click on each one to review and print the shipping label.</li>
+</ul>
 </li>
 <li>
 <p>Click <strong>Shipping Label</strong> to print out.</p>
@@ -3784,7 +3825,7 @@
 <h3 id="printing-mail-out-orders">Printing Mail Out Orders<a class="headerlink" href="#printing-mail-out-orders" title="Permanent link">¶</a></h3>
 <div class="admonition danger">
 <p class="admonition-title">IMPORTANT!!!</p>
-<p>Make sure there is transcript paper in the printer before next steps!!!</p>
+<p>Make sure there is transcript paper in Tray 2 and Tray 4 in the Transcripts Printer before next steps!!!</p>
 </div>
 <ol>
 <li>
