@@ -14,15 +14,15 @@
 
 1. **Open Orders** tab should be opened by default. 
 
-2. Hover mouse over each student and click **More**.
+2. Click on **student name** to enter Order Details.
 
-    ![Hover over each student and click More](../../images/parchment-orders-4.png)
+    ![Click on student name to enter order details](../../images/parchment-orders-4.png)
 
-3. Check under **Order Information**.
+3. In **Order Details**.
 
-    - If Order Information states "Yes, I am sending to a UC for transfer purposes."
+    - If Order Details states "Yes, I am sending to a UC for transfer purposes." and student is actually sending to a UC.
 
-        ![Order Information states "Yes, I am sending to a UC for transfer purposes."](../../images/parchment-orders-5.png)
+        ![Order Details states "Yes, I am sending to a UC for transfer purposes."](../../images/parchment-orders-5.png)
         
         - Navigate to **TRAN** on Colleague and run their transcript. Check and see if there is an IGETC Certification posted towards the end of the transcript.
         - If there is, check on Laserfiche for certification.
@@ -40,12 +40,16 @@
 
             ![Drag and drop the certification into the Upload New File area](../../images/parchment-orders-8.png)
 
-        - Click **Save & Close**.
+        - Click **Back To To Do List**.
+
+            ![Click Back To To Do List](../../images/parchment-orders-18.png)
+
         - Navigate back to **Open Orders** main page and click **Process Order** for student.
 
             ![Click Process Order](../../images/parchment-orders-9.png)
 
-    - If Order Information states "No, I am sending elsewhere or ordering for personal use.", then simply click **Process Order** for student.
+    - If Order Details states "Yes, I am sending to a UC for transfer purposes." but student is not actually sending to a UC, then simply click **Process Order** for student.
+    - If Order Details states "No, I am sending elsewhere or ordering for personal use.", then simply click **Process Order** for student.
 
 ### Problems
 
@@ -57,19 +61,22 @@
 
 3. Open **NAE** on Colleague and ensure **Name When Enrolled** matches **NAE** record.
 
-    - If a Social Security Number is provided
+    - **If a Social Security Number is provided**
         - Ensure that the Social Security Number matches the one on record.
         - If the Social Security Number does not match, cancel the order.
             - For Cancel Reason, select "Learner Provided Incorrect Request Information."
             - Enter comments that the SSN does not match what we have on file.
             - Click **Yes, Cancel This Order**.
 
-    - If date of birth is not even close to the one on record, cancel the order. *If it is one number off, and all other information matches, go ahead and process.*
+    - **If date of birth is not even close to the one on record** 
+        - Cancel the order. 
+            - *If it is one number off, and all other information matches, go ahead and process.*
         - For Cancel Reason, select "Learner Provided Incorrect Request Information."
         - Enter comments that the date of birth does not match what we have on file.
         - Click **Yes, Cancel This Order**.
 
-    - If name does not match, click on **Edit** button next to **Name**.
+    - **If name does not match** 
+        - Click on **Edit** button next to **Name**.
 
         ![Click on Edit button next to Name](../../images/parchment-orders-11.png)
 
@@ -79,7 +86,8 @@
         - Click **Resolve**.
         - Click **Process Order**.
 
-    - If we cannot find the student in our records, click **Cancel Order**.
+    - **If we cannot find the student in our records**
+        - Click **Cancel Order**.
         - Select Cancel Reason.
             - For Cancel Reason, select "Learner Record Cannot Be Located."
         - Click **Yes, Cancel This Order**.

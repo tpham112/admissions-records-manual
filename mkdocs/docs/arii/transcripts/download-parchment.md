@@ -2,7 +2,7 @@
 
 ## Processing Steps
 
-1. Go to the **RECEIVE screen** in Parchment.
+1. Go to the **RECEIVE** screen in Parchment.
 2. Download the transcripts.
 3. Search for the student in Colleague.
 4. **Name each file using this format:**
