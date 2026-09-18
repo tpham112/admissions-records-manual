@@ -86,6 +86,7 @@ nav:
     - Fraud: arii/fraud.md
     - Transcripts:
       - Process Parchment Orders: arii/transcripts/parchment-orders.md
+      - Cancelling Fedex Pickups: arii/transcripts/fedex.md
       - Download Incoming (Parchment): arii/transcripts/download-parchment.md
       - Download Incoming (XAP): arii/transcripts/download-xap.md
       - Move to M Drive: arii/transcripts/m-drive.md
