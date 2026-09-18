@@ -68,6 +68,8 @@ Common district transcripts include:
 If a transcript was previously submitted:
 
 1. Check Laserfiche for the original transcript — verify dates attended and units completed.
-2. **If no change:** Add `(Duplicate)` to the timestamp comment and at the end of the filename.
-   - Example: `Norris, Chuck (Duplicate)_1711846_Fullerton college`
-3. **If there is a change:** Update Start/End dates.
+    - **If no change:** 
+        -Select `(DUPL)` for Status.
+        - Example: `Norris, Chuck (Duplicate)_1711846_Fullerton college`
+    - **If there is a change:** 
+        - Update Start/End dates and select `(RECD)`.

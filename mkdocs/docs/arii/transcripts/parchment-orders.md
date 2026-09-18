@@ -161,4 +161,4 @@
 10. Click **Pause Printing** on Parchment after paper transcripts are printed.
 
 !!! warning "FEDEX"
-    Automatic FedEx pick-up days are **Wednesday** — cancel or schedule accordingly.
+    Automatic FedEx pick-up days are **Wednesday** — [cancel](../../arii/transcripts/fedex.md) or schedule accordingly.
