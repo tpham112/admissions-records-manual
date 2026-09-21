@@ -1,6 +1,8 @@
-# Download Incoming Transcripts (Parchment)
+# Download Incoming Transcripts from Parchment
 
 ## Processing Steps
+
+### Downloading Transcripts
 
 1. Click on **PROFILE** in the top right hand corner of the Parchment interface.
 
@@ -16,7 +18,7 @@
 
 4. Search for the student in Colleague.
 
-5. **Name each file using this format:**
+5. Name each file using this format:
 
     ```
     Lastname, Firstname Middleinitial._STUDENTID_School Name
@@ -33,7 +35,7 @@
     - If the transcript has multiple colleges but only one is relevant, save the file using the relevant college's name.
     - If the transcript only has one college, save the file using the individual college's name.
 
-6. Save the downloaded transcripts to the **QF-Import to Laserfiche** inside of **SAC - eTrans Download** in the **M Drive**.
-7. Navigate to IASU in Colleague.
-8. Detail into the institution record for the student.
-    - If the institution does not exist, click on empty line to 
+### Saving and Logging Transcripts
+1. Save the downloaded transcripts to the **QF-Import to Laserfiche** inside of **SAC - eTrans Download** in the **M Drive**.
+2. Log received transcripts to student records in Colleague via the **IASU** screen.
+    - See [Logging in IASU](../transcripts/iasu-logging.md) for detailed steps.
