@@ -1,9 +1,10 @@
-# Download Incoming Transcripts — XAP
+# Download Incoming Transcripts from XAP
 
 ## Processing Steps
 
-1. Log into **XAP Control Center** at:
-   [XAP Transcripts Report](https://control.xap.com/secure/transcripts/reports/Report_View.asp?Report_ID=2493)
+### Downloading Transcripts
+
+1. Log into **[XAP Control Center](https://control.xap.com/secure/transcripts/reports/Report_View.asp?Report_ID=2493)**.
 
 2. Navigate to: **eTranscriptCA → Reports → Transcripts we've received → "Detail"**
 
@@ -31,3 +32,8 @@
     - If the transcript only has one college, save the file using the individual college's name.
 
 7. Move the downloaded transcripts to the **XAP folder** in the M Drive *(see [Move to M Drive](m-drive.md))*.
+
+### Saving and Logging Transcripts
+1. Save the downloaded transcripts to the **QF-Import to Laserfiche** inside of **SAC - eTrans Download** in the **M Drive**.
+2. Log received transcripts to student records in Colleague via the **IASU** screen.
+    - See [Logging in IASU](../transcripts/iasu-logging.md) for detailed steps.
