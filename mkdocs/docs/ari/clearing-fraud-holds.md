@@ -3,6 +3,8 @@
 ## Overview
 
 This procedure outlines the steps to clear fraud holds on a student's record in Colleague.
+
+!!! note
     - If student has not done so already, have them submit an [Identity Verification Form](https://federation.ngwebsolutions.com/sp/startSSO.ping?PartnerIdpId=https://sts.windows.net/a8040095-716d-4e49-b783-b5f746eea8b3/&SpSessionAuthnAdapterId=rsccdDF&TargetResource=https%3a%2f%2fdynamicforms.ngwebsolutions.com%2fSubmit%2fStart%2ffcef4290-2969-47bc-b935-3bf528655d66).
     - If the student is at the window and is still having difficulty, we can scan the physical verifying document (e.g., driver's license, passport) and upload to Laserfiche.
 
