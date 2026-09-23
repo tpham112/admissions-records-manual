@@ -43,6 +43,7 @@ This section covers procedures handled by ARII staff, including applications, tr
 | [Credit for Prior Learning](petitions/credit-prior-learning.md) | Processing CPL petitions |
 | [Honors Contracts](petitions/honors-contracts.md) | Processing Honors Contract petitions |
 | [Academic Renewal](petitions/academic-renewal.md) | Academic Renewal with and without Course Repetition |
+| [Language Proficiency (LOTE)](petitions/lote.md) | Language proficiency petitions |
 | [Overlapping Classes](petitions/overlapping-classes.md) | Overlapping class petitions (ARII level) |
 | [Prerequisite Challenge](petitions/prerequisite-challenge.md) | Prerequisite challenge forms |
 | [SB554 Special Admit](petitions/sb554.md) | SB554 Special Admit Forms (Dynamic Forms) |
