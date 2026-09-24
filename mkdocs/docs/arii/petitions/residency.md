@@ -49,12 +49,44 @@
 
 ***
 
-### Proof Requirements
+## Proof Requirements
 
-- **2 proofs required**, both dated ≥ one year + one day before term start.
-- If deriving from parent/guardian: 2 proofs from parent/guardian; one **must be a CA 540** listing student as dependent.
+### Residency Requirements
+- Residency requires evidence of both **physical presence** and **intent**.
+- Physical presence must generally be established **one year and one day before the Residency Determination Date (RDD)**.
+- Documentation may support **intent**, **physical presence**, or **both**.
+- There is no fixed number of documents required; documentation must sufficiently support the residency determination.
 
-Common proofs: CA Driver License (issue date), lease/rental agreement, CA voter registration (check voting history dates), CA professional license ([DCA search](https://search.dca.ca.gov/)).
+### Students Deriving Residency from a Parent/Guardian
+- Residency documentation must be provided for the parent/guardian.
+- Documentation must establish the relationship between the student and the parent/guardian.
+    - Acceptable examples may include:
+    - California Form 540 showing the student as a dependent
+    - Federal tax return showing the student as a dependent
+    - Birth certificate
+    - Court-appointed guardianship documentation
+- Additional documentation should support the parent/guardian's physical presence and/or intent during the residency period.
+
+| Document Type | What to Verify | Intent | Physical Presence |
+|---------------|----------------|--------|-------------------|
+| California Driver License or California Identification Card | Issue date (NOT DD date) | ✅ | ❌ |
+| Lease or Rental Agreement | Student name and issue/signature date | ❌ | ✅ |
+| Property Tax Bill | Property owner name, California property address, and tax year | ✅ | ✅ |
+| Mortgage Statement | Borrower name, property address, and statement date | ❌ | ✅ |
+| California Voter Registration | Registration date and voting history dates | ✅ | ❌ |
+| California Professional License | Issue date | ✅ | ❌ |
+| Utility Bill (Gas, Electric, Water, Internet) | Student name, service address, and statement date | ❌ | ✅ |
+| California Vehicle Registration | Registration issue date and California address | ✅ | ✅ |
+| California Vehicle Title | Owner name and issue date | ✅ | ❌ |
+| California State Income Tax Return | Filing year and California resident status | ✅ | ✅ |
+| W-2 or Pay Stub | California employer and dates of employment | ❌ | ✅ |
+| Employment Verification Letter | Employer location and employment dates | ❌ | ✅ |
+| Bank Statement | Student name, California address, and statement date | ❌ | ✅ |
+| Homeowner's or Renter's Insurance Policy | Policyholder name, California address, and effective date | ✅ | ✅ |
+| Military Orders (if applicable) | Assignment dates and California station | ❌ | ✅ |
+| Public Assistance Documentation | Recipient name, California address, and benefit dates | ❌ | ✅ |
+| Court Documents | California address and filing date | ❌ | ✅ |
+| California Community College or CSU/UC Employment Records | Employment dates and California work location | ❌ | ✅ |
 
 !!! note
     If documentation is incomplete, **do not deny immediately** — review with leads for alternatives first.
