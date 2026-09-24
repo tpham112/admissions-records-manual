@@ -179,6 +179,23 @@ Include: Timestamp · "California Residency" · Documents reviewed
     - Spouse/child of active-duty member stationed in CA qualifies for resident classification with no limit on duration.
     - Only need DEERS card (no copy) and stationed-in-CA orders.
 
+| Document Type | What to Verify | Intent | Physical Presence |
+|---------------|----------------|--------|-------------------|
+| DD Form 2058 (State of Legal Residence Certificate) | California listed as legal residence | ✅ | ❌ |
+| Leave and Earnings Statement (LES) | California listed as State of Legal Residence (SLR) | ✅ | ❌ |
+| California Driver License or California Identification Card | Issue date and validity | ✅ | ❌ |
+| California Voter Registration | Registration date and voting activity | ✅ | ❌ |
+| California Vehicle Registration | California registration and issue date | ✅ | ❌ |
+| California Professional License | Issue date and active status | ✅ | ❌ |
+| California Resident Income Tax Return (Form 540) | California resident filing status | ✅ | ✅ |
+| California Property Tax Bill | California property ownership and tax year | ✅ | ✅ |
+| California Mortgage Statement | California property address and statement date | ✅ | ✅ |
+| Military Orders | Active-duty status and duty assignment | ❌ | ❌* |
+| Utility Bill for California Residence | California service address and statement date | ❌ | ✅ |
+| Lease or Rental Agreement for California Residence | California address and lease dates | ❌ | ✅ |
+
+\* Military orders generally establish military status and out-of-state assignment but do not independently establish California intent or physical presence.
+
 ---
 
 ### Asylum Documentation
