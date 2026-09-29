@@ -56,6 +56,7 @@
 - Physical presence must generally be established **one year and one day before the Residency Determination Date (RDD)**.
 - Documentation may support **intent**, **physical presence**, or **both**.
 - There is no fixed number of documents required; documentation must sufficiently support the residency determination.
+- As long as the student can prove both physical presence and intent, residency may be established.
 
 ### Students Deriving Residency from a Parent/Guardian
 - Residency documentation must be provided for the parent/guardian.
