@@ -42,6 +42,9 @@
 
 ## Credit By Exam
 
+!!! note "Credit By Exam Requirements"
+    Students must be enrolled in classes at the time of submission. *We can honor older CBE requests if the student was enrolled at the time of submission.*
+
 ### Processing Steps
 
 1. Enter Credit By Exam
