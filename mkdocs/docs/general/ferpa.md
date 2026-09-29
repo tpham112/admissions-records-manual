@@ -35,6 +35,14 @@ Absent one of the exceptions above, **the college may NOT**:
 !!! warning
     Always request a **signed release authorization waiver** and a copy of the student's **photo ID** to ensure FERPA compliance when in doubt.
 
+## Disclosures Without Prior Consent
+
+FERPA generally requires written consent before releasing personally identifiable information from a student's education record. However, FERPA permits disclosure without consent in certain circumstances, including disclosures to school officials with a legitimate educational interest, other schools for enrollment or transfer purposes, financial aid officials, and disclosures required by law or necessary during a health or safety emergency.
+
+Before releasing information, verify the recipient's identity, confirm that a FERPA exception applies, and disclose only the information necessary for the permitted purpose.
+
+For the complete list of exceptions and requirements, see [34 CFR § 99.31: Disclosures Without Prior Consent](https://studentprivacy.ed.gov/ferpa#0.1_se34.1.99_131){:target="_blank" rel="noopener noreferrer"}.
+
 ## Source
 
 [FERPA — Student Privacy Policy Office](https://studentprivacy.ed.gov/ferpa#0.1_se34.1.99_131)
