@@ -8,12 +8,18 @@
 
 *Ed Code Section 55042*
 
+!!! note "When To Evaluate"
+    - Only evaluate if the course is a SAC course. 
+        - If it is an SCC course, forward the request to SCC Admissions. 
+        - If the request has SAC and SCC courses, process the SAC courses and forward the SCC courses accordingly.
+
 ### Eligibility
 
 Can only be processed if the C-ID matches for both schools **OR** approved by the department Dean/Chair. Research must be done by ARII, not the student.
 
 - Search for C-ID here: [c-id.net/courses/search](https://c-id.net/courses/search)
 - If C-ID is not available, search for the course descriptions from the catalog year the course was taken. Send the petition, transcripts, and course descriptions to the department for review. Search college catalogs at [cso.collegesource.com](https://cso.collegesource.com)
+- Repeated external course does not need to be taken before our course.
 
 ---
 

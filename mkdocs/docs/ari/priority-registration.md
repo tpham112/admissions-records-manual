@@ -12,7 +12,7 @@ Processing Dynamic Form submissions for student parent/guardian priority registr
 
 2. Add Priority Registration Code
     - Navigate to a **new line** in COAF.
-    - Enter **`1SPPR`** and press **Enter**.
+    - Enter **`1PTPR`** and press **Enter**.
 
 3. Enter Membership Period
     - In the **Membership Periods** fields:

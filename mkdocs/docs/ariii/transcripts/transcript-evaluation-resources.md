@@ -1,4 +1,4 @@
-# Transcripts — Incoming Colleges
+# Transcript Evaluation Resources
 
 ## Video Resources
 
@@ -22,9 +22,9 @@
 
 | # | Category | Include | Exclude |
 |---|----------|---------|---------|
-| 1 | **ALL** | All coursework, A–F, CR/NC, P/NP, Repeats, Non-degree applicable | In-Progress, EWs (affects SAP) |
-| 2 | **COMPLETED** | Letter grades A–D, CR, P | F grades, NC/NP, Repeats, Unauthorized Withdrawal, Withdrawal, Non-degree applicable |
-| 3 | **ATTEMPTED** | Letter grades A–F, Unauthorized Withdrawal | CR/NC, P/NP, Repeats, Withdrawal, Non-degree applicable |
+| 1 | **UNITS ATMPT** | All coursework, A–F, CR/NC, P/NP, Repeats, Non-degree applicable | In-Progress, EWs (affects SAP) |
+| 2 | **UNITS CMPLT** | Letter grades A–D, CR, P | F grades, NC/NP, Repeats, Unauthorized Withdrawal, Withdrawal, Non-degree applicable |
+| 3 | **UNITS GPA** | Letter grades A–F, Unauthorized Withdrawal | CR/NC, P/NP, Repeats, Withdrawal, Non-degree applicable |
 | 4 | **GRADE POINTS** | Units × grade value from Attempted (A=4, B=3, C=2, D=1, F=0) | CR/NC, P/NP, Repeats, Withdrawal, Non-degree applicable |
 
 ---

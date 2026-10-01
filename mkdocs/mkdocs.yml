@@ -117,9 +117,9 @@ nav:
       - Excused Withdrawals: ariii/petitions/excused-withdrawals.md
       - Probation Hold Releases: ariii/petitions/probation-hold-releases.md
     - Transcripts:
-      - Overview: ariii/transcripts/transcripts.md
       - Transcript Evaluation: ariii/transcripts/transcript-evaluation.md
       - Transcript FAQ: ariii/transcripts/transcript-faq.md
+      - Transcript Evaluation Resources: ariii/transcripts/transcript-evaluation-resources.md
     - Academic Probation: ariii/academic-probation.md
   - AR Tech Procedures:
     - Overview: artech/index.md
