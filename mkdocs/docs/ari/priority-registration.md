@@ -6,6 +6,9 @@ Processing Dynamic Form submissions for student parent/guardian priority registr
 
 ## Processing Steps
 
+!!! warning "Before You Start"
+    If the student already has a flag entered for 1PTPR, do not enter a new one. Students only qualify for Student Parent priority registration for two academic years.
+
 1. Access the Student Record
     - Log in to **Colleague**.
     - Go to **COAF** for the student listed on the Dynamic Form submission.
@@ -25,3 +28,8 @@ Processing Dynamic Form submissions for student parent/guardian priority registr
 5. Final Checks
     - Confirm the Priority Registration code displays correctly for the specified term.
     - Update the Dynamic Form status as appropriate.
+
+!!! note "Priority Registration Logic"
+    The Priority Registration query looks back 2 years from the upcoming term to determine eligibility based on prior submissions.
+    
+    - For example, if a student has a Start Date of 8/18/2025 (2025-26 Academic Year), they will still have priority registration until the end of the Spring 2027 (2026-27 Academic Year).
