@@ -117,7 +117,10 @@ nav:
       - Excused Withdrawals: ariii/petitions/excused-withdrawals.md
       - Probation Hold Releases: ariii/petitions/probation-hold-releases.md
     - Transcripts:
-      - Transcript Evaluation: ariii/transcripts/transcript-evaluation.md
+      - Transcript Evaluation - Transfer Units: ariii/transcripts/transcript-evaluation-transfer-units.md
+      - Transcript Evaluation - Course by Course: ariii/transcripts/transcript-evaluation-course-by-course.md
+      - Transcript Entry - Transfer Units: ariii/transcripts/transcript-entry-transfer-units.md
+      - Transcript Entry - Course by Course: ariii/transcripts/transcript-entry-course-by-course.md
       - Transcript FAQ: ariii/transcripts/transcript-faq.md
       - Transcript Evaluation Resources: ariii/transcripts/transcript-evaluation-resources.md
     - Academic Probation: ariii/academic-probation.md
