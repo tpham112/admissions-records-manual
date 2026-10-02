@@ -73,9 +73,10 @@ nav:
     - Registration: ari/registration.md
     - Student Parent Priority Registration: ari/priority-registration.md
     - Petitions:
-      - Pass/No Pass: ari/petitions/pass-no-pass.md
+      - Late Add: ari/petitions/late-add.md
       - Overlapping Classes: ari/petitions/overlapping-classes.md
       - Overload: ari/petitions/overload.md
+      - Pass/No Pass: ari/petitions/pass-no-pass.md
       - Prerequisite Challenge: ari/petitions/prerequisite-challenge.md
   - ARII Procedures:
     - Overview: arii/index.md
