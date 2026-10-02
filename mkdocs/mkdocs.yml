@@ -50,6 +50,7 @@ nav:
   - General Information:
     - Overview: general/index.md
     - Colleague Pages Reference: general/colleague-pages.md
+    - Academic Probation: general/academic-probation.md
     - Course Families: general/course-families.md
     - CVC Information: general/cvc-information.md
     - Deceased Student Process: general/deceased-student.md
@@ -124,7 +125,6 @@ nav:
       - Transcript Entry - Course by Course: ariii/transcripts/transcript-entry-course-by-course.md
       - Transcript FAQ: ariii/transcripts/transcript-faq.md
       - Transcript Evaluation Resources: ariii/transcripts/transcript-evaluation-resources.md
-    - Academic Probation: ariii/academic-probation.md
   - AR Tech Procedures:
     - Overview: artech/index.md
     - Daily Tasks: artech/daily-tasks.md
