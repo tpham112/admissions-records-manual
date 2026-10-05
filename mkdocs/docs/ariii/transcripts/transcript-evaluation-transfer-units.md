@@ -132,25 +132,7 @@ The degree applicability of courses from the institution should be verified to a
 
 4. Line out any courses on the student's transcript that are identified as non-degree applicable based on the catalog review.
 
-5. Only count these units in the UNITS ATMPT column on the transcript.
-
-### Repeated Courses
-
-The evaluation of repeated courses from the institution should be verified to accurately assess transfer units.
-
-#### Checking for Repeated Courses
-
-1. Click on the institution's transcript key.
-
-    ![Screenshot of Transcript Key](../../images/transcript-evaluation-9.png)
-
-2. Review the transcript key to identify how each school indicates repeated courses.
-
-    ![Screenshot of Transcript Key Highlighting Repeated Courses](../../images/transcript-evaluation-14.png)
-
-3. Line out any repeated courses on the student's transcript that are not eligible for credit based on the catalog review.
-
-4. Only count these units in the UNITS ATMPT column on the transcript.
+5. Do not count any units for non-degree applicable courses towards the student's transfer credit.
 
 ### In Progress Courses
 
@@ -169,3 +151,21 @@ The evaluation of in progress courses from the institution should be verified to
 3. Line out any in progress courses on the student's transcript that are not eligible for credit based on the catalog review.
 
 4. Do not count any units for in progress courses towards the student's transfer credit until the courses are completed and grades are posted.
+
+### Repeated Courses
+
+The evaluation of repeated courses from the institution should be verified to accurately assess transfer units.
+
+#### Checking for Repeated Courses
+
+1. Click on the institution's transcript key.
+
+    ![Screenshot of Transcript Key](../../images/transcript-evaluation-9.png)
+
+2. Review the transcript key to identify how each school indicates repeated courses.
+
+    ![Screenshot of Transcript Key Highlighting Repeated Courses](../../images/transcript-evaluation-14.png)
+
+3. Line out any repeated courses on the student's transcript that are not eligible for credit based on the catalog review.
+
+4. Only count these units in the UNITS ATMPT column on the transcript.
