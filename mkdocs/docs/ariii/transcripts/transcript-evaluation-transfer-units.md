@@ -132,7 +132,7 @@ The degree applicability of courses from the institution should be verified to a
 
 4. Line out any courses on the student's transcript that are identified as non-degree applicable based on the catalog review.
 
-5. Do not count any units for non-degree applicable courses towards the student's transfer credit.
+5. **DO NOT** count any units for non-degree applicable courses towards the student's transfer credit.
 
 ### In Progress Courses
 
@@ -150,7 +150,7 @@ The evaluation of in progress courses from the institution should be verified to
 
 3. Line out any in progress courses on the student's transcript that are not eligible for credit based on the catalog review.
 
-4. Do not count any units for in progress courses towards the student's transfer credit until the courses are completed and grades are posted.
+4. **DO NOT** count any units for in progress courses towards the student's transfer credit until the courses are completed and grades are posted.
 
 ### Repeated Courses
 
