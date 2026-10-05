@@ -131,3 +131,41 @@ The degree applicability of courses from the institution should be verified to a
         Search for classic non-degree applicable courses like pre-algebra, English as a Second Language (ESL), etc. to quickly identify courses that may not count towards degree requirements and then compare with the courses you are checking from the student's transcript.
 
 4. Line out any courses on the student's transcript that are identified as non-degree applicable based on the catalog review.
+
+5. Only count these units in the UNITS ATMPT column on the transcript.
+
+### Repeated Courses
+
+The evaluation of repeated courses from the institution should be verified to accurately assess transfer units.
+
+#### Checking for Repeated Courses
+
+1. Click on the institution's transcript key.
+
+    ![Screenshot of Transcript Key](../../images/transcript-evaluation-9.png)
+
+2. Review the transcript key to identify how each school indicates repeated courses.
+
+    ![Screenshot of Transcript Key Highlighting Repeated Courses](../../images/transcript-evaluation-14.png)
+
+3. Line out any repeated courses on the student's transcript that are not eligible for credit based on the catalog review.
+
+4. Only count these units in the UNITS ATMPT column on the transcript.
+
+### In Progress Courses
+
+The evaluation of in progress courses from the institution should be verified to accurately assess transfer units.
+
+#### Checking for In Progress Courses
+
+1. Click on the institution's transcript key.
+
+    ![Screenshot of Transcript Key](../../images/transcript-evaluation-9.png)
+
+2. Review the transcript key to identify how each school indicates in progress courses.
+
+    ![Screenshot of Transcript Key Highlighting In Progress Courses](../../images/transcript-evaluation-15.png)
+
+3. Line out any in progress courses on the student's transcript that are not eligible for credit based on the catalog review.
+
+4. Do not count any units for in progress courses towards the student's transfer credit until the courses are completed and grades are posted.
