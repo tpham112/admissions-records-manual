@@ -103,7 +103,7 @@ The course numbering system of the institution should be verified to accurately 
         - E.g., Long Beach City College courses from 1-99 are considered transferable and anything higher is not.
         - E.g., Orange Coast College courses from 100 and up are considered transferable and anything lower is not.
 
-## Determining Which Courses Ignore
+## Determining Which Courses To Ignore
 
 ### Degree Applicable Courses
 
