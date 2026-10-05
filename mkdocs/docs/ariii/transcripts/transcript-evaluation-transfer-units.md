@@ -105,17 +105,27 @@ The course numbering system of the institution should be verified to accurately 
 
 ## Determining Which Courses To Ignore
 
-### Degree Applicable Courses
+### Non-Degree Applicable Courses
 
 The degree applicability of courses from the institution should be verified to accurately evaluate transfer units.
 
-### Checking Degree Applicability
+#### Checking Degree Applicability
 
-1. From the Course Finder 2 page, click on applicable academic year to review the catalog.
+1. From the Course Finder 2 page, click on applicable academic year of the catalog you want to review.
 
-2. Navigate through the catalog to the course descriptions.
+    ![Screenshot of Course Finder 2 Page](../../images/transcript-evaluation-10.png)
 
-3. Compare between course descriptions to see what counts as degree applicable or not.
+2. Click Select to view the catalog.
+
+    ![Screenshot of Selected Catalog](../../images/transcript-evaluation-11.png)
+
+3. Navigate through the catalog to the course descriptions.
+
+    ![Screenshot of Course Descriptions](../../images/transcript-evaluation-12.png)
+
+4. Compare between course descriptions to see what counts as degree applicable or not. This will require your judgment call based on the information provided in the catalog.
+
+    ![Screenshot of Non-Degree Applicable Courses](../../images/transcript-evaluation-13.png)
 
     !!! tip "Tip"
         Search for classic non-degree applicable courses like pre-algebra, English as a Second Language (ESL), etc. to quickly identify courses that may not count towards degree requirements and then compare with the courses you are checking from the student's transcript.
