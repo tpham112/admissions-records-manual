@@ -3,13 +3,11 @@
 ## Overview
 This section provides guidelines and procedures for evaluating transfer units from other institutions. It covers the steps for researching and verifying the accreditation of the sending institution, assessing the transferability of courses, and documenting the evaluated units before entry into the student's academic record.
 
-## Transfer Unit Evaluation
-
-### Student Verification
+## Student Verification
 
 Even though the intake team initially reviews and matches students with their records, it is important to still reverify that we have the correct student tied to the academic record before proceeding with the evaluation.
 
-### Institution Verification
+## Institution Verification
 
 Before evaluating transfer units, we want to make sure that we are using the institution with the CEEB code attached to it.
 
@@ -25,7 +23,7 @@ Before evaluating transfer units, we want to make sure that we are using the ins
 4. If the institution does not have a CEEB code, check the Master CEEB Code list to find the appropriate school ID and create a new line on IASU with the correct details.
 
 
-### Accreditation
+## Accreditation
 
 Ensure that the institution is recognized by a legitimate a regional accrediting body before proceeding with the evaluation.
 
@@ -39,7 +37,7 @@ Ensure that the institution is recognized by a legitimate a regional accrediting
 | WASC-ACCJC | Western Association of Schools and Colleges, Accrediting Commission for Community and Junior Colleges |
 | WASC-ACACS | Western Association of Schools and Colleges, Accrediting Commission for Senior Colleges and Universities |
 
-#### Checking Accreditation
+### Checking Accreditation
 
 Accreditation information can be found through the [Transfer Evaluation System](https://tes.collegesource.com/TES_login.aspx).
 
@@ -67,13 +65,13 @@ Accreditation information can be found through the [Transfer Evaluation System](
 
 7. If the institution is not recognized by a legitimate regional accrediting body, **DO NOT** proceed with the evaluation.
 
-### Calendar System
+## Calendar System
 
 The calendar system of the institution should be verified to accurately evaluate transfer units.
 
-#### Checking the Calendar System
+### Checking the Calendar System
 
-1. Follow the same steps as verifying accreditation to access the institution profile in TES.
+1. Follow the same steps as [verifying accreditation](#checking-accreditation) to access the institution profile in TES.
 
 2. Look for the calendar system information on the institution profile.
 
@@ -85,4 +83,41 @@ The calendar system of the institution should be verified to accurately evaluate
 
 4. Take note of the calendar system used by the institution to ensure accurate evaluation of transfer units (e.g., semester, quarter, trimester).
 
-### Course Numbering System
+## Course Numbering System
+
+The course numbering system of the institution should be verified to accurately evaluate transfer units.
+
+### Checking the Course Numbering System
+
+1. Follow the same steps as [verifying accreditation](#checking-accreditation) to access the institution profile in TES.
+
+2. Click on the institution's transcript key.
+
+    ![Screenshot of Transcript Key](../../images/transcript-evaluation-9.png)
+
+3. Take note of the course numbering system used by the institution to ensure accurate evaluation of transfer units (e.g., 100-level, 200-level, 300-level).
+
+    !!! note "Important"
+        Each school may have a different course numbering system, so it is important to verify it for each institution individually.
+
+        - E.g., Long Beach City College courses from 1-99 are considered transferable and anything higher is not.
+        - E.g., Orange Coast College courses from 100 and up are considered transferable and anything lower is not.
+
+## Determining Which Courses Ignore
+
+### Degree Applicable Courses
+
+The degree applicability of courses from the institution should be verified to accurately evaluate transfer units.
+
+### Checking Degree Applicability
+
+1. From the Course Finder 2 page, click on applicable academic year to review the catalog.
+
+2. Navigate through the catalog to the course descriptions.
+
+3. Compare between course descriptions to see what counts as degree applicable or not.
+
+    !!! tip "Tip"
+        Search for classic non-degree applicable courses like pre-algebra, English as a Second Language (ESL), etc. to quickly identify courses that may not count towards degree requirements and then compare with the courses you are checking from the student's transcript.
+
+4. Line out any courses on the student's transcript that are identified as non-degree applicable based on the catalog review.
