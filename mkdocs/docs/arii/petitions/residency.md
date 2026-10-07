@@ -79,7 +79,7 @@
 | Utility Bill (Gas, Electric, Water, Internet) | Student name, service address, and statement date | ❌ | ✅ |
 | California Vehicle Registration | Registration issue date and California address | ✅ | ✅ |
 | California Vehicle Title | Owner name and issue date | ✅ | ❌ |
-| California State Income Tax Return | Filing year and California resident status | ✅ | ✅ |
+| California State Income Tax Return | Filing year and California resident status | ✅ | ❌ |
 | W-2 or Pay Stub | California employer and dates of employment | ❌ | ✅ |
 | Employment Verification Letter | Employer location and employment dates | ❌ | ✅ |
 | Bank Statement | Student name, California address, and statement date | ❌ | ✅ |

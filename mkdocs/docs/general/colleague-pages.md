@@ -24,6 +24,7 @@ Quick reference for commonly used Colleague screen codes.
 | **RTVF** | Field Testing & Debugging |
 | **SECA** | Add authorization list |
 | **SECT** | Pre-requisites |
+| **SREP** | Student Registration Priority |
 | **STAC** | Student academic record / course detail |
 | **STPE** | Special Admit Waivers, Overload Petition Waivers, etc. |
 | **TRAN** | SAC Transcript |
