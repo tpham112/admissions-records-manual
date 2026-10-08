@@ -86,6 +86,9 @@ The calendar system of the institution should be verified to accurately evaluate
 
 4. Take note of the calendar system used by the institution to ensure accurate evaluation of transfer units (e.g., semester, quarter, trimester).
 
+    !!! note "Alternative Transcript Key Checking Option"
+        If the transcript key information is not available on the Course Finder 2 page, you can alternatively check the institution's official website or review the corresponding catalog on TES to verify the transcript key used by the institution.
+
 ## Course Numbering System
 
 The course numbering system of the institution should be verified to accurately evaluate transfer units.
@@ -100,7 +103,10 @@ The course numbering system of the institution should be verified to accurately 
 
 3. Take note of the course numbering system used by the institution to ensure accurate evaluation of transfer units (e.g., 100-level, 200-level, 300-level).
 
-    !!! note "Important"
+    !!! note "Alternative Transcript Key Checking Option"
+        If the transcript key information is not available on the Course Finder 2 page, you can alternatively check the institution's official website or review the corresponding catalog on TES to verify the transcript key used by the institution.
+
+    !!! warning "Important"
         Each school may have a different course numbering system, so it is important to verify it for each institution individually.
 
         - E.g., Long Beach City College courses from 1-99 are considered transferable and anything higher is not.
@@ -137,6 +143,9 @@ The degree applicability of courses from the institution should be verified to a
 
 5. **DO NOT** count any units for non-degree applicable courses towards the student's transfer credit.
 
+    !!! warning "Intermediate Algebra"
+        Intermediate Algebra courses are typically considered non-degree applicable for 4-year institutions but we still count them towards transfer credit.
+
 ### In Progress Courses
 
 The evaluation of in progress courses from the institution should be verified to accurately assess transfer units.
@@ -172,3 +181,6 @@ The evaluation of repeated courses from the institution should be verified to ac
 3. Line out any repeated courses on the student's transcript that are not eligible for credit based on the catalog review.
 
 4. Only count these units in the UNITS ATMPT column on the transcript.
+
+    !!! note "Alternative Transcript Key Checking Option"
+        If the transcript key information is not available on the Course Finder 2 page, you can alternatively check the institution's official website or review the corresponding catalog on TES to verify the transcript key used by the institution.
