@@ -24,9 +24,9 @@
 
     ![CPL Type and Learning Mode](../../images/map-5.png)
 
-7. Take note of the Counselor Verified date and the requested courses.
+7. Take note of the CPL Docs Verified date and the requested courses.
 
-    ![Counselor Verified date and requested courses](../../images/map-6.png)
+    ![CPL Docs Verified date and requested courses](../../images/map-6.png)
 
 8. Follow the steps below for Colleague entry.
 
@@ -55,9 +55,9 @@
 
         ![Enter cbe](../../images/cbe-1.png)
 
-    - For Date Taken, enter the Counselor Verified date.
+    - For Date Taken, enter the CPL Docs Verified date.
 
-        ![Enter Counselor Verified date](../../images/cbe-2.png)
+        ![Enter CPL Docs Verified date](../../images/cbe-2.png)
 
     - Click **Save**, **Update**, and **Ok**.
 
@@ -264,9 +264,9 @@
 
         ![Enter cbe](../../images/cbe-1.png)
 
-    - For Date Taken, enter the Counselor Verified date.
+    - For Date Taken, enter the CPL Docs Verified date.
 
-        ![Enter Counselor Verified date](../../images/cbe-2.png)
+        ![Enter CPL Docs Verified date](../../images/cbe-2.png)
 
     - Click **Save**, **Update**, and **Ok**.
     
