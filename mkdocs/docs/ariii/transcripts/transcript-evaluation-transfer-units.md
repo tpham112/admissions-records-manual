@@ -65,6 +65,9 @@ Accreditation information can be found through the [Transfer Evaluation System](
 
 7. If the institution is not recognized by a legitimate regional accrediting body, **DO NOT** proceed with the evaluation.
 
+!!! note "Alternative Accreditation Checking Option"
+    If the accreditation information is not available through TES, you can alternatively check the institution's official website or visit the Database of Accredited Postsecondary Institutions and Programs (DAPIP) [here](https://ope.ed.gov/dapip/#/home) to verify its accreditation status.
+
 ## Calendar System
 
 The calendar system of the institution should be verified to accurately evaluate transfer units.
