@@ -45,6 +45,9 @@ Step 10: Click **Save All**.
 
 Step 11: Navigate back to the request on Dynamic Forms and finish processing.
 
+!!! note "Current/Former Statuses"
+    Update the student's addresses to *Current* or *Former* as appropriate.
+
 ---
 
 !!! note
