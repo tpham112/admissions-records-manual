@@ -29,3 +29,32 @@ Please use the matrix below when verifying the identity of students to ensure co
 3. Follow the applicable verification process in the matrix above.
 
 > **Important:** Students under 18 are not currently prompted to complete identity verification. Students age 18 or older are required to complete identity verification.
+
+### How To Check Student Identity Verification Status
+
+1. Navigate to [CCCAdministrator](https://admin.ccctechcenter.org/).
+2. Click on **Applications** and then **OpenCCC Administrator**.
+
+    ![CCCAdministrator Applications Screenshot](../images/id-verification-2.png)
+
+3. Click on **Account Verification**.
+
+    ![CCCAdministrator Account Verification Screenshot](../images/id-verification-3.png)
+
+4. Enter the student's CCID, SSN, or Email and click **Search**.
+
+    ![CCCAdministrator Search Screenshot](../images/id-verification-4.png)
+
+3. Check the identity verification status field to determine if the student has completed the verification process.
+
+    ![CCCAdministrator Identity Verification Status Screenshot](../images/id-verification-5.png)
+
+### How Students Can Complete Identity Verification Through CCCApply
+
+1. Have the student log in to their CCCApply account.
+2. If student is not verified, they should be prompted to complete the identity verification process through CCCApply.
+
+    ![CCCApply Identity Verification Screenshot](../images/id-verification-1.png)
+
+3. Once the student completes the identity verification process, CCCApply will update their verification status.
+4. Check the student's verification status through [CCCAdministrator](https://admin.ccctechcenter.org/).
