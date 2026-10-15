@@ -82,3 +82,9 @@ If a CVC student is still interested in registering for a course that has alread
 Send the student the following information (you must log in to Canvas and copy/paste the content to the student):
 
 [CVC Students and Single Sign-On](https://rsccd.instructure.com/courses/121440/pages/cvc-students-and-single-sign-on)
+
+---
+
+## How Do CVC Students Update Residency?
+
+Our local policy does not currently allow us to accept a student's residency classification as determined by another community college district. For auditing purposes, the student will need to complete the [Residency Reclassification](https://sac.edu/residency) form with us.
