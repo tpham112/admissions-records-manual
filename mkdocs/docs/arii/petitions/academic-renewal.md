@@ -12,6 +12,19 @@
     - Only evaluate if the course is a SAC course. 
         - If it is an SCC course, forward the request to SCC Admissions. 
         - If the request has SAC and SCC courses, process the SAC courses and forward the SCC courses accordingly.
+    - Regionally Accredited Institutions Only
+
+### Accreditation
+
+| Accreditation | Accrediting Agency |
+|--------------|-------------------|
+| MSCHE | Middle States Commission on Higher Education |
+| NCA-HLC | Higher Learning Commission (formerly North Central Association of Schools and Colleges) |
+| NWCCU | Northwest Commission on Colleges and Universities |
+| NEASC-CIHE | New England Association of Schools and Colleges, Commission on Institutions of Higher Education (New England Commission of Higher Education) |
+| SACS | Southern Association of Colleges and Schools, Commission on Colleges |
+| WASC-ACCJC | Western Association of Schools and Colleges, Accrediting Commission for Community and Junior Colleges |
+| WASC-ACACS | Western Association of Schools and Colleges, Accrediting Commission for Senior Colleges and Universities |
 
 ### Eligibility
 

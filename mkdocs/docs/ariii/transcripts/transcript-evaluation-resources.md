@@ -18,6 +18,22 @@
 
 ---
 
+## Accreditation
+
+Ensure that the institution is recognized by a legitimate a regional accrediting body before proceeding with the evaluation.
+
+| Accreditation | Accrediting Agency |
+|--------------|-------------------|
+| MSCHE | Middle States Commission on Higher Education |
+| NCA-HLC | Higher Learning Commission (formerly North Central Association of Schools and Colleges) |
+| NWCCU | Northwest Commission on Colleges and Universities |
+| NEASC-CIHE | New England Association of Schools and Colleges, Commission on Institutions of Higher Education (New England Commission of Higher Education) |
+| SACS | Southern Association of Colleges and Schools, Commission on Colleges |
+| WASC-ACCJC | Western Association of Schools and Colleges, Accrediting Commission for Community and Junior Colleges |
+| WASC-ACACS | Western Association of Schools and Colleges, Accrediting Commission for Senior Colleges and Universities |
+
+---
+
 ## Unit Evaluation Cheat Sheet
 
 | # | Category | Include | Exclude |
