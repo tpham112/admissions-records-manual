@@ -1,6 +1,8 @@
 # CVC Information
 
-[CVC FAQs (Google Drive)](https://drive.google.com/file/d/18FT9JqXkdpWaKPNi_Sn5zPIddO-df2Dl/view)
+## CVC Resources
+
+- [CVC FAQs (Google Drive)](https://drive.google.com/file/d/18FT9JqXkdpWaKPNi_Sn5zPIddO-df2Dl/view)
 
 ---
 
