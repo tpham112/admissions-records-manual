@@ -108,7 +108,8 @@
 ### Advanced Placement (AP) Scores
 
 !!! warning
-    The student must have grades on the system first. If we add AP scores before the student has any coursework at SAC, we will be adding them with no context. If they are currently taking courses, **wait until the end of the semester**. Classes must be *SAC* courses.
+    - We only accept official AP scores sealed in an envelope or downloaded from Collegeboard.
+    - The student must have grades on the system first. If we add AP scores before the student has any coursework at SAC, we will be adding them with no context. If they are currently taking courses, **wait until the end of the semester**. Classes must be *SAC* courses.
 
 !!! note
     AP score coding can be downloaded by clicking this link: [AP Score Coding Guide](../../documents/AP%20Codes.xlsx).
