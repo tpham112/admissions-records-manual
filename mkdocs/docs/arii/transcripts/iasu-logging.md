@@ -63,13 +63,11 @@ Common district transcripts include:
 
 ---
 
-## Duplicate Transcripts
+## Duplicate Transcript Review
 
-If a transcript was previously submitted:
-
-1. Check Laserfiche for the original transcript — verify dates attended and units completed.
-    - **If no change:** 
-        -Select `(DUPL)` for Status.
-        - Example: `Norris, Chuck (Duplicate)_1711846_Fullerton college`
-    - **If there is a change:** 
-        - Update Start/End dates and select `(RECD)`.
+1. Check STAC for the evaluation date and timestamp.
+2. **If a timestamp exists,** locate the scanned evaluated transcript in Laserfiche (LF).
+3. **If no timestamp exists,** try to match the transfer units in STAC with the evaluated transcript in LF.
+4. Compare all transfer units against the new incoming transcript.
+5. **If all transfer units match with no changes,** mark the transfer as a duplicate by selecting `(DUPL)` for Status.
+6. **If there are changes,** update Start/End dates and select `(RECD)`.
