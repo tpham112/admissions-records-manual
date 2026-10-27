@@ -441,3 +441,12 @@ transition for financial aid or other purposes, including “Ward of the Court�
 - Only need **one** reclass/AB 540/application if processing for multiple consecutive semesters — e.g., processing Fall 2019 also covers Spring 2020.
 - If flagged as Non-Resident for an **SCC application**: send to SCC to fix it — we don't have access to their application.
 - Students only need to provide documentation for the specific semester — just update on ASPR.
+
+    !!! note "Regarding Financial Dependence from Natalie Wagner"
+        Under Title 5, section 54032, financial independence weighs in favor of California residence, while financial dependence weighs against a finding of California residence. However, the regulation also provides some flexibility. Specifically, financial dependence may be overcome if the parent on whom the student is dependent is a California resident, or if there is no evidence that the student is maintaining residence in another state.
+        
+        In this situation, I would first consider whether the parent or individual claiming the student as a dependent is a California resident. If so, the student's financial dependence would generally not prevent reclassification, assuming the student has otherwise met the physical presence and intent requirements.
+        
+        Even if the parent resides outside California, Title 5, section 54032(d) allows districts to disregard a finding of financial dependence if there is no evidence that the student intends to establish or maintain residence elsewhere.
+        
+        Based on the information you provided, I would not necessarily require additional documentation from the student's parents solely because the student indicated that they are being claimed as a dependent. If the district is satisfied that the student has met the physical presence and intent requirements and there is no other evidence suggesting the student is maintaining residence outside California, I think the district could determine that the student meets the requirements for reclassification.
