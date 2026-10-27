@@ -2129,17 +2129,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#duplicate-transcript-review" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Duplicate Transcript Review
-      
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -4046,17 +4035,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#duplicate-transcript-review" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Duplicate Transcript Review
-      
-    </span>
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -4087,12 +4065,23 @@
 <ol>
 <li>
 <p>Go to <strong>IASU</strong> and search for the institution where the transcript comes from.</p>
+<ul>
+<li><strong>If it is not in IASU,</strong> add it on a new line and choose the school code that matches the name and address on the transcript legend.</li>
+<li><strong>If it is in IASU,</strong> continue below.</li>
+</ul>
 </li>
 <li>
-<p><strong>If the institution is in IASU:</strong> Drill in and log the transcript using the fields below.</p>
+<p><strong>If a transcript from this institution has been evaluated before,</strong> check STAC for the evaluation date and timestamp.</p>
+<ul>
+<li>If a timestamp exists, locate the scanned evaluated transcript in Laserfiche (LF).</li>
+<li>If no timestamp exists, try to match the transfer units in STAC with the evaluated transcript in LF.</li>
+<li>Compare all transfer units against the new transcript.</li>
+<li>If all units match with no changes, select <code>(DUPL)</code> for Status and stop.</li>
+<li>If there are changes, update Start/End dates and select <code>(RECD)</code>.</li>
+</ul>
 </li>
 <li>
-<p><strong>If the institution is NOT in IASU:</strong> Enter the school's name on a new line, then choose the school code that matches the name and address on the transcript legend.</p>
+<p>Log the transcript using the fields below.</p>
 </li>
 </ol>
 <div class="admonition note">
@@ -4175,7 +4164,13 @@
 <li><code>counter</code></li>
 </ul>
 <h3 id="degree-entry">Degree Entry<a class="headerlink" href="#degree-entry" title="Permanent link">¶</a></h3>
-<p>Drill into the degree box → degree date → type <code>...</code> (3 dots) → click to choose a degree code → click Open → enter the degree earned date → single Save → Update.</p>
+<ol>
+<li>Drill into the degree box and open the degree date field.</li>
+<li>Type <code>...</code> (three dots) to open the degree-code selection.</li>
+<li>Select the appropriate degree code and click <strong>Open</strong>.</li>
+<li>Enter the date the degree was earned.</li>
+<li>Click <strong>Save</strong> once, then click <strong>Update</strong>.</li>
+</ol>
 <hr>
 <h2 id="important-notes">Important Notes<a class="headerlink" href="#important-notes" title="Permanent link">¶</a></h2>
 <div class="admonition warning">
@@ -4188,16 +4183,6 @@
 - Riverside Community College District
 - Los Angeles Community College District
 - San Diego Community College District</p>
-<hr>
-<h2 id="duplicate-transcript-review">Duplicate Transcript Review<a class="headerlink" href="#duplicate-transcript-review" title="Permanent link">¶</a></h2>
-<ol>
-<li>Check STAC for the evaluation date and timestamp.</li>
-<li><strong>If a timestamp exists,</strong> locate the scanned evaluated transcript in Laserfiche (LF).</li>
-<li><strong>If no timestamp exists,</strong> try to match the transfer units in STAC with the evaluated transcript in LF.</li>
-<li>Compare all transfer units against the new incoming transcript.</li>
-<li><strong>If all transfer units match with no changes,</strong> mark the transfer as a duplicate by selecting <code>(DUPL)</code> for Status.</li>
-<li><strong>If there are changes,</strong> update Start/End dates and select <code>(RECD)</code>.</li>
-</ol>
 
 
 
