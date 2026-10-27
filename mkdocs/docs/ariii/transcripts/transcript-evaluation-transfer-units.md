@@ -5,7 +5,7 @@ This section provides guidelines and procedures for evaluating transfer units fr
 
 ## Student Verification
 
-Even though the intake team initially reviews and matches students with their records, it is important to still reverify that we have the correct student tied to the academic record before proceeding with the evaluation.
+Even though the intake team initially reviews and matches students with their records, it is important to still re-verify that we have the correct student tied to the academic record before proceeding with the evaluation.
 
 ## Institution Verification
 
@@ -20,7 +20,7 @@ Before evaluating transfer units, we want to make sure that we are using the ins
 
     ![CEEB code verification](../../images/transcript-evaluation-2.png)
 
-4. If the institution does not have a CEEB code, check the Master CEEB Code list to find the appropriate school ID and create a new line on IASU with the correct details.
+4. If the institution does not have a CEEB code, check the [Master CEEB Code list](https://rsccd.sharepoint.com/:x:/s/Admissions2/IQAge6IURGvqR5TNkX6Uo-wgAZ9wIGMJVYeQT0kYCS-0Rn8?e=5Aaph0) to find the appropriate school ID and create a new line on IASU with the correct details.
 
 
 ## Accreditation
