@@ -3,10 +3,17 @@
 ## Steps
 
 1. Go to **IASU** and search for the institution where the transcript comes from.
+    - **If it is not in IASU,** add it on a new line and choose the school code that matches the name and address on the transcript legend.
+    - **If it is in IASU,** continue below.
 
-2. **If the institution is in IASU:** Drill in and log the transcript using the fields below.
+2. **If a transcript from this institution has been evaluated before,** check STAC for the evaluation date and timestamp.
+    - If a timestamp exists, locate the scanned evaluated transcript in Laserfiche (LF).
+    - If no timestamp exists, try to match the transfer units in STAC with the evaluated transcript in LF.
+    - Compare all transfer units against the new transcript.
+    - If all units match with no changes, select `(DUPL)` for Status and stop.
+    - If there are changes, update Start/End dates and select `(RECD)`.
 
-3. **If the institution is NOT in IASU:** Enter the school's name on a new line, then choose the school code that matches the name and address on the transcript legend.
+3. Log the transcript using the fields below.
 
 !!! note "Screenshot Placeholder"
     Screenshots of the IASU entry screen are in the original Word manual. Add them here when available.
@@ -44,7 +51,11 @@ Use one of these codes in the comment:
 
 ### Degree Entry
 
-Drill into the degree box → degree date → type `...` (3 dots) → click to choose a degree code → click Open → enter the degree earned date → single Save → Update.
+1. Drill into the degree box and open the degree date field.
+2. Type `...` (three dots) to open the degree-code selection.
+3. Select the appropriate degree code and click **Open**.
+4. Enter the date the degree was earned.
+5. Click **Save** once, then click **Update**.
 
 ---
 
@@ -60,14 +71,3 @@ Common district transcripts include:
 - Riverside Community College District
 - Los Angeles Community College District
 - San Diego Community College District
-
----
-
-## Duplicate Transcript Review
-
-1. Check STAC for the evaluation date and timestamp.
-2. **If a timestamp exists,** locate the scanned evaluated transcript in Laserfiche (LF).
-3. **If no timestamp exists,** try to match the transfer units in STAC with the evaluated transcript in LF.
-4. Compare all transfer units against the new incoming transcript.
-5. **If all transfer units match with no changes,** mark the transfer as a duplicate by selecting `(DUPL)` for Status.
-6. **If there are changes,** update Start/End dates and select `(RECD)`.
