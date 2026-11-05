@@ -15,7 +15,7 @@ This section covers procedures handled by ARII staff, including applications, tr
 | [SCC Special Admit](scc-special-admit.md) | Processing SCC Special Admit Forms |
 | **Transcripts** | See Transcripts section below |
 | **Petitions** | See Petitions section below |
-| [Residency Notes](residency-notes.md) | Detailed residency edge cases |
+| [California Residency](petitions/residency.md) | Processing guide, proof requirements, eligibility, and special scenarios |
 
 ## Dual Enrollment Procedures
 | Procedure | Description |

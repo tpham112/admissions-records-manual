@@ -105,7 +105,11 @@ nav:
       - Language Proficiency (LOTE): arii/petitions/lote.md
       - Overlapping Classes: arii/petitions/overlapping-classes.md
       - Prerequisite Challenge: arii/petitions/prerequisite-challenge.md
-      - Residency: arii/petitions/residency.md
+      - Residency:
+        - Processing Guide: arii/petitions/residency.md
+        - Proof Requirements & Eligibility: arii/petitions/residency-proof.md
+        - Special Statuses & Exceptions: arii/petitions/residency-special-statuses.md
+        - Student Scenarios & Additional Notes: arii/petitions/residency-student-scenarios.md
       - SB554 Special Admit: arii/petitions/sb554.md
     - Subpoenas: arii/subpoenas.md
   - ARIII Procedures:
@@ -154,4 +158,3 @@ nav:
     - Unit Changes: artech/unit-changes.md
     - Waitlist Rollovers: artech/waitlist-rollover.md
     - Miscellaneous: artech/misc.md
-
