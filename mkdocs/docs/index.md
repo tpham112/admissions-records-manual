@@ -2,7 +2,7 @@
 
 **Santa Ana College · Admissions & Records**
 
-*Last updated: August 31st, 2026*
+*Last updated: <!-- LAST_UPDATED -->*
 
 ---
 

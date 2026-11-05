@@ -25,6 +25,26 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material mkdocs-glightbox
 
+      - name: Set last updated date
+        run: |
+          python - <<'PY'
+          from datetime import date
+          from pathlib import Path
+          import subprocess
+
+          page = Path("mkdocs/docs/index.md")
+          content = page.read_text(encoding="utf-8")
+          placeholder = "<!-- LAST_UPDATED -->"
+          if content.count(placeholder) != 1:
+              raise SystemExit(f"Expected exactly one {placeholder} placeholder in {page}")
+
+          commit_date = subprocess.check_output(
+              ["git", "log", "-1", "--format=%cs"], text=True
+          ).strip()
+          formatted_date = date.fromisoformat(commit_date).strftime("%B %d, %Y").replace(" 0", " ")
+          page.write_text(content.replace(placeholder, formatted_date), encoding="utf-8")
+          PY
+
       - name: Build MkDocs
         run: |
           cd mkdocs
