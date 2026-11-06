@@ -133,12 +133,19 @@ nav:
       - Excused Withdrawals: ariii/petitions/excused-withdrawals.md
       - Probation Hold Releases: ariii/petitions/probation-hold-releases.md
     - Transcripts:
-      - Transcript Evaluation - Transfer Units: ariii/transcripts/transcript-evaluation-transfer-units.md
-      - Transcript Evaluation - Course by Course: ariii/transcripts/transcript-evaluation-course-by-course.md
-      - Transcript Entry - Transfer Units: ariii/transcripts/transcript-entry-transfer-units.md
-      - Transcript Entry - Course by Course: ariii/transcripts/transcript-entry-course-by-course.md
-      - Transcript FAQ: ariii/transcripts/transcript-faq.md
-      - Transcript Evaluation Resources: ariii/transcripts/transcript-evaluation-resources.md
+      - Start Here: ariii/transcripts/transcript-overview.md
+      - Transfer Units:
+        - Initial Checks: ariii/transcripts/transcript-evaluation-transfer-units.md
+        - Courses to Ignore: ariii/transcripts/transcript-transfer-unit-course-review.md
+        - Scenarios & Verification: ariii/transcripts/transcript-transfer-unit-scenarios.md
+        - Calculating Transfer Units: ariii/transcripts/transcript-transfer-unit-calculation.md
+        - Total Transfer Unit Processing: ariii/transcripts/transcript-transfer-unit-processing.md
+      - Course-by-Course & GE:
+        - Evaluation (Pending): ariii/transcripts/transcript-evaluation-course-by-course.md
+        - Entry (Pending): ariii/transcripts/transcript-entry-course-by-course.md
+        - Pseudo and GE Processing: ariii/transcripts/transcript-pseudo-ge-processing.md
+      - FAQ: ariii/transcripts/transcript-faq.md
+      - Resources: ariii/transcripts/transcript-evaluation-resources.md
   - AR Tech Procedures:
     - Overview: artech/index.md
     - Daily & Term Tasks:

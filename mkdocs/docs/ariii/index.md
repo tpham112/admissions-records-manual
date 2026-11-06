@@ -30,10 +30,15 @@ ARIII handles academy enrollment, application batch processing, petitions, and i
 
 | Procedure | Description |
 |---|---|
-| [Transcript Evaluation — Transfer Units](transcripts/transcript-evaluation-transfer-units.md) | Evaluating transfer units |
-| [Transcript Evaluation — Course by Course](transcripts/transcript-evaluation-course-by-course.md) | Evaluating transcripts course by course |
-| [Transcript Entry — Transfer Units](transcripts/transcript-entry-transfer-units.md) | Entering transfer units |
-| [Transcript Entry — Course by Course](transcripts/transcript-entry-course-by-course.md) | Entering courses individually |
+| [Transcript Guides — Start Here](transcripts/transcript-overview.md) | Choose a workflow and find reference materials |
+| [Transfer Unit Evaluation — Initial Checks](transcripts/transcript-evaluation-transfer-units.md) | Verify the student and institution |
+| [Courses to Ignore](transcripts/transcript-transfer-unit-course-review.md) | Review non-degree applicable, in-progress, and repeated courses |
+| [Transfer Unit Scenarios & Verification](transcripts/transcript-transfer-unit-scenarios.md) | Local/external course scenarios and scenario-specific checks |
+| [Calculating Transfer Units](transcripts/transcript-transfer-unit-calculation.md) | Calculate and verify eligible transfer units |
+| [Total Transfer Unit Processing](transcripts/transcript-transfer-unit-processing.md) | Existing SCAN, IASU, EXTS, and STAC instructions |
+| [Transcript Evaluation — Course by Course](transcripts/transcript-evaluation-course-by-course.md) | Dedicated evaluation guide — pending |
+| [Transcript Entry — Course by Course](transcripts/transcript-entry-course-by-course.md) | Dedicated entry guide — pending |
+| [Pseudo and GE Processing](transcripts/transcript-pseudo-ge-processing.md) | Existing prerequisite and GE workflows and course coding |
 | [Transcript FAQ](transcripts/transcript-faq.md) | Common transcript evaluation questions |
 | [Transcript Evaluation Resources](transcripts/transcript-evaluation-resources.md) | Reference materials for transcript evaluation |
 
