@@ -79,7 +79,7 @@
 !!! info "When EA Drops Occur"
     EA Drops occur **between the Census date and the last day to drop with a "W"**.
     
-    For faculty requesting **late EA drops**: email them that the deadline has passed, inform them we cannot accept or backdate such drops, and remind them that per the catalog, dropping is ultimately the student's responsibility. Faculty must get **Division Dean permission** before requesting a late EA or Drop.
+    For faculty requesting **late EA drops**: email them that the deadline has passed, inform them we cannot accept or backdate such drops, and remind them that per the catalog, dropping is ultimately the student's responsibility. Faculty must get **written Division Dean permission** before requesting a late EA or Drop.
 
 **RGN:** Enter **Student ID** and detail into the course.
 
