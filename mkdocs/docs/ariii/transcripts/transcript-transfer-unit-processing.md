@@ -18,7 +18,7 @@
 |-------|-------|
 | Transcript Type | `COL` — College |
 | Date Recd | Today's date |
-| Status | `UEVL` (units only) / `TEVL` (GE evaluated) / `NOAC` (not accredited) |
+| Status | `UEVL` (units only) / `EEVL` (C-ID evaluated) / `TEVL` (GE evaluated) / `NOAC` (not accredited) |
 
 5. If school not listed: enter school name on a new line, find the school, then repeat above.
 6. Click **Save All**.
