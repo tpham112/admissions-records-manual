@@ -105,11 +105,11 @@ Production Sites:
 ## Clearing Voicemail Inbox
 
 1. Press **Messages** (cassette icon) on the phone.
-2. Press *****.
-3. Enter `48555` and press **#**.
-4. Enter passcode and press **#**.
-5. Press **1** to listen to messages.
-6. Press **7** to delete messages.
+2. Press `*`.
+3. Enter `48555` and press `#`.
+4. Enter passcode and press `#`.
+5. Press `1` to listen to messages.
+6. Press `7` to delete messages.
 
 ---
 
