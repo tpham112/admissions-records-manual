@@ -108,7 +108,11 @@ A failed course will typically have attempted units but **0.00 completed units**
 
 #### EXTS Action
 
-- Enter the external course in **EXTS**.
+- Enter external courses with A, B, C, D, or P grades in **EXTS**.
+
+    !!! note "D Grades"
+        - We enter D grades because they may count toward local academic plans. 
+        - Higher-level courses automatically exclude D grades when checking prerequisites, preventing students from registering without a passing grade.
 
 #### Result
 
