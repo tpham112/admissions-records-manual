@@ -163,3 +163,15 @@ For long-term course sections that span across two fiscal years (crossing the Ju
 Check path: `\rsccd.org\diststf\Department Directories\App Data RepositoryÐ Audit Reports - Students`
 
 Check the latest reports and fix any outstanding errors. See also [End of Term — Fixing MIS Errors](end-of-term.md#fixing-mis-errors).
+
+---
+
+## Prerequisite Waiver Troubleshooting
+
+### Previous Incorrect Waivers Not Revoked
+
+1. Navigate to **Colleague → XSRWS**.
+2. Search for the student and term in question.
+3. Check for any prerequisite waivers that were incorrectly applied.
+4. If found, let the counselor know to revoke the incorrect waivers.
+5. Save the changes and test again.
