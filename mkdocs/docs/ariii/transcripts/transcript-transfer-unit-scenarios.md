@@ -32,6 +32,9 @@ Use this scenario when:
 - The student earned a local **F**, **D**, or **NP**; and
 - The student later completed an equivalent external course with an **A**, **B**, **C**, or **P**.
 
+!!! warning "Check the Substandard Grade Limit Before Forgiveness"
+    **Verify the student's local substandard grade count before applying automatic renewal.** Automatic renewal is permitted only with **2 or fewer** local substandard grades. If the student has **3 or more**, the **last substandard grade must stand**; do not apply automatic renewal. See the [automatic renewal steps](#local-fail-external-pass-automatic-renewal-steps) below.
+
 #### Transfer Totals Entry
 
 Calculate the external course exactly as reported on the external transcript:
@@ -44,13 +47,13 @@ Calculate the external course exactly as reported on the external transcript:
 #### EXTS Action
 
 - Enter the external course in **EXTS**.
-- Use the external course to support repeat/alleviation processing.
-- Complete the STAC updates described below.
+- Use the external course to support repeat/alleviation processing when eligible.
+- Complete the STAC updates described below only when automatic renewal is permitted.
 
 #### Result
 
 - Degree credit is awarded from the external passing course.
-- The local GPA impact is removed.
+- The eligible local GPA impact is removed only when automatic renewal is permitted; the last substandard grade must stand when the student has 3 or more.
 - The student's record reflects successful course completion.
 - Both attempts remain represented for Financial Aid SAP purposes.
 
@@ -126,13 +129,27 @@ A failed course will typically have attempted units but **0.00 completed units**
 
 | Scenario | Transfer Totals Entry | EXTS Action | Result |
 |-----------|-----------|-----------|-----------|
-| **Local Fail + External Pass** | Full Attempted + Full Completed + Full GPA Units + Full Grade Points | Enter in EXTS | GPA alleviated, degree credit awarded, both attempts retained |
+| **Local Fail + External Pass** | Full Attempted + Full Completed + Full GPA Units + Full Grade Points | Enter in EXTS | GPA alleviated only when eligible; degree credit awarded, both attempts retained |
 | **Local Pass + External Pass** | Full Attempted Units + 0.00 Completed Units + 0.00 GPA Units + 0.00 Grade Points | Do Not Enter | Prevents duplicate degree credit while retaining attempt |
 | **All Other Scenarios** | Enter all values exactly as reported | Enter in EXTS | Standard transfer processing |
 
 ## Local Fail + External Pass: Automatic Renewal Steps
 
 After transferring the external course and entering it in **EXTS**, update the equivalent local failed course.
+
+!!! danger "CRITICAL: Title 5 Substandard Grade Regulations"
+    
+    **Automatic renewal is ONLY allowed when a student has earned 2 or fewer substandard grades with RSCCD.**
+    
+    **If a student has 3 or more substandard grades:**
+    - **The last substandard grade MUST STAND** per Title 5 regulations
+    - Automatic renewal **IS NOT PERMITTED**
+    - Manual review by counselor or administration is required
+    - The student's academic standing record must reflect this restriction
+    
+    Always verify the student's substandard grade count BEFORE applying automatic renewal processing.
+
+### Automatic Renewal Process (2 or Fewer Substandard Grades Only)
 
 1. Open **STAC** and locate the student.
 2. Detail into the applicable local failed course.
@@ -175,6 +192,9 @@ After transferring the external course and entering it in **EXTS**, update the e
 - The local GPA impact is removed through the external passing completion.
 - Degree credit is awarded based on the external passing course.
 - Financial Aid SAP continues to reflect both attempted enrollments.
+
+!!! warning "Title 5 Compliance Check Required"
+    Before completing automatic renewal, confirm that the student has fewer than 3 substandard grades with RSCCD. If 3+ substandard grades exist, escalate to Student Services or Academic Counseling for manual review and approval.
 
 ## STAC Quick Reference
 
