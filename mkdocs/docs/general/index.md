@@ -24,6 +24,7 @@ This section contains shared references, policies, and guidance for Admissions &
 
 | Resource | What you'll find |
 |---|---|
+| [CCCStart Information](cccstart-information.md) | Staff guide to CCCStart, identity verification, and application review |
 | [Colleague Pages Reference](colleague-pages.md) | Colleague screen and page reference |
 | [CVC Information](cvc-information.md) | Cross-enrollment and CVC guidance |
 | [ListServ Instructions](listserv.md) | ListServ instructions |
