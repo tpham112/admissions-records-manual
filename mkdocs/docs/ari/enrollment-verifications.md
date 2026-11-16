@@ -58,6 +58,18 @@ Procedures for processing enrollment verification requests from students, third 
 
 ---
 
+## Government Agency Verifications
+
+Police departments, sheriff's departments, and other government agencies may email requests to verify student information. These requests may be processed **without a fee**.
+
+1. Open the verification website linked in the agency's request
+
+2. Follow the website's instructions to verify the student's information
+
+3. Submit the verification through the website
+
+---
+
 ## Investigative Requests for Educational Record Data
 
 !!! note
