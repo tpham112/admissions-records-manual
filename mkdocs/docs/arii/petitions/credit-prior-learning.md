@@ -3,6 +3,9 @@
 !!! note "Credit By Exam Requirements"
     Students must be enrolled in classes at the time of submission. *We can honor older CBE requests if the student was enrolled at the time of submission. Time of submission would be the CPL Docs Verified date.*
 
+## Additional Resources
+- [AR 4235 Credit for Prior Learning](https://rsccd.edu/BOT/AR%204235.pdf)
+
 ## MAP
 
 1. Navigate to the [MAP](https://mappingarticulatedpathways.azurewebsites.net/modules/security/Login.aspx) webpage.
