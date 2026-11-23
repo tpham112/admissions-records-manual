@@ -36,6 +36,56 @@ Ensure that the institution is recognized by a legitimate a regional accrediting
 
 ---
 
+## Grade Validation for Course Equivalencies
+
+The following table indicates which transcript grades are accepted for course equivalencies. **Approved grades** can be entered into the system, while **Rejected grades** cannot be brought in.
+
+> **Note:** A D grade may be used for a course equivalency on a local degree plan. However, prerequisite rules still prevent a D grade from satisfying prerequisites for higher-level courses.
+
+| Transcript Grade | Validation Status |
+|------------------|-------------------|
+| A+ | Approved |
+| A | Approved |
+| A- | Approved |
+| B+ | Approved |
+| B | Approved |
+| B- | Approved |
+| C+ | Approved |
+| C | Approved |
+| C- | Approved |
+| D+ | Approved |
+| D | Approved |
+| D- | Rejected |
+| F | Rejected |
+| CR | Approved |
+| P | Approved |
+| S | Approved |
+| CIP | Rejected |
+| EW | Rejected |
+| FW | Rejected |
+| I | Rejected |
+| IA | Rejected |
+| IB | Rejected |
+| IC | Rejected |
+| ID | Rejected |
+| IF | Rejected |
+| INC | Rejected |
+| INP | Rejected |
+| IP | Rejected |
+| IPP | Rejected |
+| IW | Rejected |
+| MW | Rejected |
+| NC | Rejected |
+| NP | Rejected |
+| NULL | Rejected |
+| RD | Rejected |
+| W | Rejected |
+| WF | Rejected |
+| WU | Rejected |
+| U | Rejected |
+
+---
+
 ## Unit Evaluation Cheat Sheet
 
 | # | Category | Include | Exclude |
