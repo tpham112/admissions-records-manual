@@ -40,7 +40,8 @@ Ensure that the institution is recognized by a legitimate a regional accrediting
 
 The following table indicates which transcript grades are accepted for course equivalencies. **Approved grades** can be entered into the system, while **Rejected grades** cannot be brought in.
 
-> **Note:** A D grade may be used for a course equivalency on a local degree plan. However, prerequisite rules still prevent a D grade from satisfying prerequisites for higher-level courses.
+!!! note "Grade Validation Note"
+    A D grade may be used for a course equivalency on a local degree plan. However, prerequisite rules still prevent a D grade from satisfying prerequisites for higher-level courses.
 
 | Transcript Grade | Validation Status |
 |------------------|-------------------|
