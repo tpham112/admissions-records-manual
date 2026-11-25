@@ -36,6 +36,17 @@ Use Excel or a script to extract file names from a directory and create a .csv l
 
 ---
 
+## Checking for Matches Between Two Columns with True/False Column
+
+Insert a new column to check for matches between the two columns.
+```
+=COUNTIF($A:$A,B2)>0
+```
+- A is the column to check against for matches
+- B is the column where you want to highlight matches
+
+---
+
 ## Highlighting Matches Between 2 Columns (A and B)
 
 - Highlight the column that you want to check has matches in the other column 
@@ -44,11 +55,6 @@ Use Excel or a script to extract file names from a directory and create a .csv l
     `=COUNTIF(B:B, A2)>0`
 
     ![Highlighting Matches Instructions](../images/excel-tricks-1.png)
-
-Use conditional formatting with a MATCH formula:
-```
-=ISNUMBER(MATCH(A1,$B$1:$B$100,0))
-```
 
 ---
 
